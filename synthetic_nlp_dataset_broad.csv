@@ -1,0 +1,1001 @@
+id,category,input_text,sentiment_label,summary,generated_reference
+1,education,My experience with the textbook was awesome.,positive,Positive feedback about textbook.,The textbook was awesome based on the user's experience.
+2,food,My experience with the Vegan meal was hated it.,negative,Negative feedback about Vegan meal.,The Vegan meal was hated it based on the user's experience.
+3,education,My experience with the coding bootcamp was okay.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was okay based on the user's experience.
+4,education,My experience with the MOOC was not bad.,neutral,Neutral feedback about MOOC.,The MOOC was not bad based on the user's experience.
+5,entertainment,My experience with the video game was great.,positive,Positive feedback about video game.,The video game was great based on the user's experience.
+6,food,My experience with the Sushi was annoying.,negative,Negative feedback about Sushi.,The Sushi was annoying based on the user's experience.
+7,technology,My experience with the AI chatbot was not worth it.,negative,Negative feedback about AI chatbot.,The AI chatbot was not worth it based on the user's experience.
+8,technology,My experience with the iPhone 15 was awful.,negative,Negative feedback about iPhone 15.,The iPhone 15 was awful based on the user's experience.
+9,technology,My experience with the quantum computer was average.,neutral,Neutral feedback about quantum computer.,The quantum computer was average based on the user's experience.
+10,healthcare,My experience with the telemedicine was normal.,neutral,Neutral feedback about telemedicine.,The telemedicine was normal based on the user's experience.
+11,customer_service,My experience with the restaurant service was terrible.,negative,Negative feedback about restaurant service.,The restaurant service was terrible based on the user's experience.
+12,food,My experience with the Vegan meal was normal.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was normal based on the user's experience.
+13,technology,My experience with the AI chatbot was average.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was average based on the user's experience.
+14,food,My experience with the Pasta was acceptable.,neutral,Neutral feedback about Pasta.,The Pasta was acceptable based on the user's experience.
+15,education,My experience with the online course was average.,neutral,Neutral feedback about online course.,The online course was average based on the user's experience.
+16,technology,My experience with the blockchain technology was superb.,positive,Positive feedback about blockchain technology.,The blockchain technology was superb based on the user's experience.
+17,customer_service,My experience with the delivery service was not bad.,neutral,Neutral feedback about delivery service.,The delivery service was not bad based on the user's experience.
+18,entertainment,My experience with the Netflix series was boring.,negative,Negative feedback about Netflix series.,The Netflix series was boring based on the user's experience.
+19,healthcare,My experience with the hospital experience was fine.,neutral,Neutral feedback about hospital experience.,The hospital experience was fine based on the user's experience.
+20,technology,My experience with the AI chatbot was satisfying.,positive,Positive feedback about AI chatbot.,The AI chatbot was satisfying based on the user's experience.
+21,technology,My experience with the quantum computer was mediocre.,neutral,Neutral feedback about quantum computer.,The quantum computer was mediocre based on the user's experience.
+22,education,My experience with the university program was normal.,neutral,Neutral feedback about university program.,The university program was normal based on the user's experience.
+23,education,My experience with the online course was decent.,neutral,Neutral feedback about online course.,The online course was decent based on the user's experience.
+24,healthcare,My experience with the hospital experience was loved it.,positive,Positive feedback about hospital experience.,The hospital experience was loved it based on the user's experience.
+25,technology,My experience with the quantum computer was awful.,negative,Negative feedback about quantum computer.,The quantum computer was awful based on the user's experience.
+26,healthcare,My experience with the diet plan was not bad.,neutral,Neutral feedback about diet plan.,The diet plan was not bad based on the user's experience.
+27,food,My experience with the Vegan meal was not bad.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was not bad based on the user's experience.
+28,food,My experience with the Pasta was disappointing.,negative,Negative feedback about Pasta.,The Pasta was disappointing based on the user's experience.
+29,healthcare,My experience with the fitness tracker was not worth it.,negative,Negative feedback about fitness tracker.,The fitness tracker was not worth it based on the user's experience.
+30,entertainment,My experience with the stand-up comedy was terrible.,negative,Negative feedback about stand-up comedy.,The stand-up comedy was terrible based on the user's experience.
+31,education,My experience with the online course was satisfying.,positive,Positive feedback about online course.,The online course was satisfying based on the user's experience.
+32,technology,My experience with the blockchain technology was average.,neutral,Neutral feedback about blockchain technology.,The blockchain technology was average based on the user's experience.
+33,customer_service,My experience with the online support was hated it.,negative,Negative feedback about online support.,The online support was hated it based on the user's experience.
+34,entertainment,My experience with the new Marvel movie was enjoyed it.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was enjoyed it based on the user's experience.
+35,customer_service,My experience with the delivery service was great.,positive,Positive feedback about delivery service.,The delivery service was great based on the user's experience.
+36,entertainment,My experience with the stand-up comedy was annoying.,negative,Negative feedback about stand-up comedy.,The stand-up comedy was annoying based on the user's experience.
+37,healthcare,My experience with the medical app was annoying.,negative,Negative feedback about medical app.,The medical app was annoying based on the user's experience.
+38,customer_service,My experience with the call center was average.,neutral,Neutral feedback about call center.,The call center was average based on the user's experience.
+39,entertainment,My experience with the live concert was fine.,neutral,Neutral feedback about live concert.,The live concert was fine based on the user's experience.
+40,technology,My experience with the AI chatbot was not bad.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was not bad based on the user's experience.
+41,entertainment,My experience with the stand-up comedy was satisfying.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was satisfying based on the user's experience.
+42,technology,My experience with the iPhone 15 was satisfying.,positive,Positive feedback about iPhone 15.,The iPhone 15 was satisfying based on the user's experience.
+43,entertainment,My experience with the live concert was bad.,negative,Negative feedback about live concert.,The live concert was bad based on the user's experience.
+44,food,My experience with the Pasta was average.,neutral,Neutral feedback about Pasta.,The Pasta was average based on the user's experience.
+45,healthcare,My experience with the fitness tracker was fantastic.,positive,Positive feedback about fitness tracker.,The fitness tracker was fantastic based on the user's experience.
+46,education,My experience with the online course was not bad.,neutral,Neutral feedback about online course.,The online course was not bad based on the user's experience.
+47,healthcare,My experience with the telemedicine was not bad.,neutral,Neutral feedback about telemedicine.,The telemedicine was not bad based on the user's experience.
+48,education,My experience with the coding bootcamp was not bad.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was not bad based on the user's experience.
+49,customer_service,My experience with the hotel staff was boring.,negative,Negative feedback about hotel staff.,The hotel staff was boring based on the user's experience.
+50,education,My experience with the online course was terrible.,negative,Negative feedback about online course.,The online course was terrible based on the user's experience.
+51,entertainment,My experience with the Netflix series was mediocre.,neutral,Neutral feedback about Netflix series.,The Netflix series was mediocre based on the user's experience.
+52,entertainment,My experience with the new Marvel movie was awful.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was awful based on the user's experience.
+53,entertainment,My experience with the Netflix series was hated it.,negative,Negative feedback about Netflix series.,The Netflix series was hated it based on the user's experience.
+54,education,My experience with the textbook was fantastic.,positive,Positive feedback about textbook.,The textbook was fantastic based on the user's experience.
+55,customer_service,My experience with the delivery service was normal.,neutral,Neutral feedback about delivery service.,The delivery service was normal based on the user's experience.
+56,education,My experience with the coding bootcamp was disappointing.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was disappointing based on the user's experience.
+57,entertainment,My experience with the new Marvel movie was acceptable.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was acceptable based on the user's experience.
+58,education,My experience with the MOOC was disappointing.,negative,Negative feedback about MOOC.,The MOOC was disappointing based on the user's experience.
+59,technology,My experience with the AI chatbot was okay.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was okay based on the user's experience.
+60,customer_service,My experience with the delivery service was hated it.,negative,Negative feedback about delivery service.,The delivery service was hated it based on the user's experience.
+61,customer_service,My experience with the hotel staff was disappointing.,negative,Negative feedback about hotel staff.,The hotel staff was disappointing based on the user's experience.
+62,healthcare,My experience with the fitness tracker was satisfying.,positive,Positive feedback about fitness tracker.,The fitness tracker was satisfying based on the user's experience.
+63,education,My experience with the university program was decent.,neutral,Neutral feedback about university program.,The university program was decent based on the user's experience.
+64,entertainment,My experience with the new Marvel movie was not worth it.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was not worth it based on the user's experience.
+65,technology,My experience with the iPhone 15 was fine.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was fine based on the user's experience.
+66,technology,My experience with the iPhone 15 was fine.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was fine based on the user's experience.
+67,food,My experience with the Vegan meal was not worth it.,negative,Negative feedback about Vegan meal.,The Vegan meal was not worth it based on the user's experience.
+68,food,My experience with the Vegan meal was not bad.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was not bad based on the user's experience.
+69,technology,My experience with the iPhone 15 was not bad.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was not bad based on the user's experience.
+70,food,My experience with the Burger was fantastic.,positive,Positive feedback about Burger.,The Burger was fantastic based on the user's experience.
+71,food,My experience with the Burger was loved it.,positive,Positive feedback about Burger.,The Burger was loved it based on the user's experience.
+72,entertainment,My experience with the new Marvel movie was okay.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was okay based on the user's experience.
+73,technology,My experience with the AI chatbot was decent.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was decent based on the user's experience.
+74,customer_service,My experience with the online support was not bad.,neutral,Neutral feedback about online support.,The online support was not bad based on the user's experience.
+75,education,My experience with the coding bootcamp was disappointing.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was disappointing based on the user's experience.
+76,food,My experience with the Vegan meal was bad.,negative,Negative feedback about Vegan meal.,The Vegan meal was bad based on the user's experience.
+77,technology,My experience with the iPhone 15 was loved it.,positive,Positive feedback about iPhone 15.,The iPhone 15 was loved it based on the user's experience.
+78,education,My experience with the textbook was great.,positive,Positive feedback about textbook.,The textbook was great based on the user's experience.
+79,healthcare,My experience with the diet plan was awesome.,positive,Positive feedback about diet plan.,The diet plan was awesome based on the user's experience.
+80,technology,My experience with the self-driving car was superb.,positive,Positive feedback about self-driving car.,The self-driving car was superb based on the user's experience.
+81,customer_service,My experience with the delivery service was loved it.,positive,Positive feedback about delivery service.,The delivery service was loved it based on the user's experience.
+82,technology,My experience with the quantum computer was hated it.,negative,Negative feedback about quantum computer.,The quantum computer was hated it based on the user's experience.
+83,education,My experience with the textbook was enjoyed it.,positive,Positive feedback about textbook.,The textbook was enjoyed it based on the user's experience.
+84,education,My experience with the coding bootcamp was fine.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was fine based on the user's experience.
+85,healthcare,My experience with the telemedicine was superb.,positive,Positive feedback about telemedicine.,The telemedicine was superb based on the user's experience.
+86,healthcare,My experience with the medical app was annoying.,negative,Negative feedback about medical app.,The medical app was annoying based on the user's experience.
+87,technology,My experience with the self-driving car was not worth it.,negative,Negative feedback about self-driving car.,The self-driving car was not worth it based on the user's experience.
+88,healthcare,My experience with the diet plan was boring.,negative,Negative feedback about diet plan.,The diet plan was boring based on the user's experience.
+89,customer_service,My experience with the online support was awful.,negative,Negative feedback about online support.,The online support was awful based on the user's experience.
+90,technology,My experience with the AI chatbot was normal.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was normal based on the user's experience.
+91,food,My experience with the Pasta was fine.,neutral,Neutral feedback about Pasta.,The Pasta was fine based on the user's experience.
+92,food,My experience with the Pizza was awful.,negative,Negative feedback about Pizza.,The Pizza was awful based on the user's experience.
+93,technology,My experience with the iPhone 15 was fantastic.,positive,Positive feedback about iPhone 15.,The iPhone 15 was fantastic based on the user's experience.
+94,healthcare,My experience with the diet plan was boring.,negative,Negative feedback about diet plan.,The diet plan was boring based on the user's experience.
+95,education,My experience with the university program was disappointing.,negative,Negative feedback about university program.,The university program was disappointing based on the user's experience.
+96,food,My experience with the Burger was satisfying.,positive,Positive feedback about Burger.,The Burger was satisfying based on the user's experience.
+97,education,My experience with the textbook was okay.,neutral,Neutral feedback about textbook.,The textbook was okay based on the user's experience.
+98,healthcare,My experience with the telemedicine was superb.,positive,Positive feedback about telemedicine.,The telemedicine was superb based on the user's experience.
+99,technology,My experience with the iPhone 15 was superb.,positive,Positive feedback about iPhone 15.,The iPhone 15 was superb based on the user's experience.
+100,education,My experience with the coding bootcamp was loved it.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was loved it based on the user's experience.
+101,technology,My experience with the quantum computer was mediocre.,neutral,Neutral feedback about quantum computer.,The quantum computer was mediocre based on the user's experience.
+102,education,My experience with the university program was satisfying.,positive,Positive feedback about university program.,The university program was satisfying based on the user's experience.
+103,healthcare,My experience with the fitness tracker was mediocre.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was mediocre based on the user's experience.
+104,healthcare,My experience with the diet plan was amazing.,positive,Positive feedback about diet plan.,The diet plan was amazing based on the user's experience.
+105,food,My experience with the Vegan meal was superb.,positive,Positive feedback about Vegan meal.,The Vegan meal was superb based on the user's experience.
+106,food,My experience with the Burger was annoying.,negative,Negative feedback about Burger.,The Burger was annoying based on the user's experience.
+107,entertainment,My experience with the stand-up comedy was amazing.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was amazing based on the user's experience.
+108,food,My experience with the Vegan meal was annoying.,negative,Negative feedback about Vegan meal.,The Vegan meal was annoying based on the user's experience.
+109,technology,My experience with the iPhone 15 was average.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was average based on the user's experience.
+110,education,My experience with the textbook was not worth it.,negative,Negative feedback about textbook.,The textbook was not worth it based on the user's experience.
+111,education,My experience with the MOOC was annoying.,negative,Negative feedback about MOOC.,The MOOC was annoying based on the user's experience.
+112,food,My experience with the Sushi was mediocre.,neutral,Neutral feedback about Sushi.,The Sushi was mediocre based on the user's experience.
+113,healthcare,My experience with the telemedicine was annoying.,negative,Negative feedback about telemedicine.,The telemedicine was annoying based on the user's experience.
+114,food,My experience with the Vegan meal was fine.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was fine based on the user's experience.
+115,technology,My experience with the quantum computer was fine.,neutral,Neutral feedback about quantum computer.,The quantum computer was fine based on the user's experience.
+116,technology,My experience with the AI chatbot was enjoyed it.,positive,Positive feedback about AI chatbot.,The AI chatbot was enjoyed it based on the user's experience.
+117,entertainment,My experience with the new Marvel movie was okay.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was okay based on the user's experience.
+118,entertainment,My experience with the Netflix series was awesome.,positive,Positive feedback about Netflix series.,The Netflix series was awesome based on the user's experience.
+119,education,My experience with the MOOC was great.,positive,Positive feedback about MOOC.,The MOOC was great based on the user's experience.
+120,entertainment,My experience with the Netflix series was disappointing.,negative,Negative feedback about Netflix series.,The Netflix series was disappointing based on the user's experience.
+121,technology,My experience with the iPhone 15 was great.,positive,Positive feedback about iPhone 15.,The iPhone 15 was great based on the user's experience.
+122,food,My experience with the Vegan meal was amazing.,positive,Positive feedback about Vegan meal.,The Vegan meal was amazing based on the user's experience.
+123,healthcare,My experience with the telemedicine was mediocre.,neutral,Neutral feedback about telemedicine.,The telemedicine was mediocre based on the user's experience.
+124,technology,My experience with the blockchain technology was annoying.,negative,Negative feedback about blockchain technology.,The blockchain technology was annoying based on the user's experience.
+125,technology,My experience with the self-driving car was loved it.,positive,Positive feedback about self-driving car.,The self-driving car was loved it based on the user's experience.
+126,customer_service,My experience with the online support was great.,positive,Positive feedback about online support.,The online support was great based on the user's experience.
+127,education,My experience with the MOOC was fine.,neutral,Neutral feedback about MOOC.,The MOOC was fine based on the user's experience.
+128,education,My experience with the textbook was annoying.,negative,Negative feedback about textbook.,The textbook was annoying based on the user's experience.
+129,education,My experience with the online course was great.,positive,Positive feedback about online course.,The online course was great based on the user's experience.
+130,customer_service,My experience with the hotel staff was normal.,neutral,Neutral feedback about hotel staff.,The hotel staff was normal based on the user's experience.
+131,customer_service,My experience with the hotel staff was decent.,neutral,Neutral feedback about hotel staff.,The hotel staff was decent based on the user's experience.
+132,healthcare,My experience with the telemedicine was normal.,neutral,Neutral feedback about telemedicine.,The telemedicine was normal based on the user's experience.
+133,education,My experience with the textbook was fantastic.,positive,Positive feedback about textbook.,The textbook was fantastic based on the user's experience.
+134,healthcare,My experience with the telemedicine was enjoyed it.,positive,Positive feedback about telemedicine.,The telemedicine was enjoyed it based on the user's experience.
+135,technology,My experience with the self-driving car was mediocre.,neutral,Neutral feedback about self-driving car.,The self-driving car was mediocre based on the user's experience.
+136,food,My experience with the Pasta was awesome.,positive,Positive feedback about Pasta.,The Pasta was awesome based on the user's experience.
+137,entertainment,My experience with the live concert was terrible.,negative,Negative feedback about live concert.,The live concert was terrible based on the user's experience.
+138,customer_service,My experience with the delivery service was great.,positive,Positive feedback about delivery service.,The delivery service was great based on the user's experience.
+139,technology,My experience with the iPhone 15 was mediocre.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was mediocre based on the user's experience.
+140,entertainment,My experience with the Netflix series was not bad.,neutral,Neutral feedback about Netflix series.,The Netflix series was not bad based on the user's experience.
+141,healthcare,My experience with the telemedicine was great.,positive,Positive feedback about telemedicine.,The telemedicine was great based on the user's experience.
+142,technology,My experience with the self-driving car was boring.,negative,Negative feedback about self-driving car.,The self-driving car was boring based on the user's experience.
+143,food,My experience with the Sushi was boring.,negative,Negative feedback about Sushi.,The Sushi was boring based on the user's experience.
+144,education,My experience with the MOOC was average.,neutral,Neutral feedback about MOOC.,The MOOC was average based on the user's experience.
+145,education,My experience with the online course was normal.,neutral,Neutral feedback about online course.,The online course was normal based on the user's experience.
+146,healthcare,My experience with the telemedicine was acceptable.,neutral,Neutral feedback about telemedicine.,The telemedicine was acceptable based on the user's experience.
+147,healthcare,My experience with the medical app was awful.,negative,Negative feedback about medical app.,The medical app was awful based on the user's experience.
+148,entertainment,My experience with the live concert was bad.,negative,Negative feedback about live concert.,The live concert was bad based on the user's experience.
+149,healthcare,My experience with the telemedicine was decent.,neutral,Neutral feedback about telemedicine.,The telemedicine was decent based on the user's experience.
+150,entertainment,My experience with the new Marvel movie was normal.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was normal based on the user's experience.
+151,food,My experience with the Vegan meal was terrible.,negative,Negative feedback about Vegan meal.,The Vegan meal was terrible based on the user's experience.
+152,technology,My experience with the AI chatbot was okay.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was okay based on the user's experience.
+153,technology,My experience with the quantum computer was fantastic.,positive,Positive feedback about quantum computer.,The quantum computer was fantastic based on the user's experience.
+154,food,My experience with the Vegan meal was superb.,positive,Positive feedback about Vegan meal.,The Vegan meal was superb based on the user's experience.
+155,customer_service,My experience with the online support was enjoyed it.,positive,Positive feedback about online support.,The online support was enjoyed it based on the user's experience.
+156,education,My experience with the online course was annoying.,negative,Negative feedback about online course.,The online course was annoying based on the user's experience.
+157,healthcare,My experience with the telemedicine was fantastic.,positive,Positive feedback about telemedicine.,The telemedicine was fantastic based on the user's experience.
+158,education,My experience with the online course was amazing.,positive,Positive feedback about online course.,The online course was amazing based on the user's experience.
+159,technology,My experience with the iPhone 15 was fantastic.,positive,Positive feedback about iPhone 15.,The iPhone 15 was fantastic based on the user's experience.
+160,food,My experience with the Pizza was loved it.,positive,Positive feedback about Pizza.,The Pizza was loved it based on the user's experience.
+161,healthcare,My experience with the medical app was decent.,neutral,Neutral feedback about medical app.,The medical app was decent based on the user's experience.
+162,healthcare,My experience with the hospital experience was superb.,positive,Positive feedback about hospital experience.,The hospital experience was superb based on the user's experience.
+163,education,My experience with the MOOC was average.,neutral,Neutral feedback about MOOC.,The MOOC was average based on the user's experience.
+164,customer_service,My experience with the delivery service was mediocre.,neutral,Neutral feedback about delivery service.,The delivery service was mediocre based on the user's experience.
+165,customer_service,My experience with the restaurant service was awful.,negative,Negative feedback about restaurant service.,The restaurant service was awful based on the user's experience.
+166,entertainment,My experience with the video game was satisfying.,positive,Positive feedback about video game.,The video game was satisfying based on the user's experience.
+167,education,My experience with the textbook was terrible.,negative,Negative feedback about textbook.,The textbook was terrible based on the user's experience.
+168,food,My experience with the Burger was boring.,negative,Negative feedback about Burger.,The Burger was boring based on the user's experience.
+169,customer_service,My experience with the online support was fine.,neutral,Neutral feedback about online support.,The online support was fine based on the user's experience.
+170,food,My experience with the Pizza was acceptable.,neutral,Neutral feedback about Pizza.,The Pizza was acceptable based on the user's experience.
+171,healthcare,My experience with the medical app was bad.,negative,Negative feedback about medical app.,The medical app was bad based on the user's experience.
+172,food,My experience with the Burger was awesome.,positive,Positive feedback about Burger.,The Burger was awesome based on the user's experience.
+173,technology,My experience with the self-driving car was awful.,negative,Negative feedback about self-driving car.,The self-driving car was awful based on the user's experience.
+174,healthcare,My experience with the telemedicine was acceptable.,neutral,Neutral feedback about telemedicine.,The telemedicine was acceptable based on the user's experience.
+175,food,My experience with the Pasta was great.,positive,Positive feedback about Pasta.,The Pasta was great based on the user's experience.
+176,healthcare,My experience with the diet plan was fantastic.,positive,Positive feedback about diet plan.,The diet plan was fantastic based on the user's experience.
+177,healthcare,My experience with the medical app was okay.,neutral,Neutral feedback about medical app.,The medical app was okay based on the user's experience.
+178,healthcare,My experience with the hospital experience was awesome.,positive,Positive feedback about hospital experience.,The hospital experience was awesome based on the user's experience.
+179,food,My experience with the Burger was fine.,neutral,Neutral feedback about Burger.,The Burger was fine based on the user's experience.
+180,education,My experience with the textbook was annoying.,negative,Negative feedback about textbook.,The textbook was annoying based on the user's experience.
+181,education,My experience with the online course was enjoyed it.,positive,Positive feedback about online course.,The online course was enjoyed it based on the user's experience.
+182,customer_service,My experience with the call center was average.,neutral,Neutral feedback about call center.,The call center was average based on the user's experience.
+183,technology,My experience with the quantum computer was annoying.,negative,Negative feedback about quantum computer.,The quantum computer was annoying based on the user's experience.
+184,healthcare,My experience with the diet plan was fantastic.,positive,Positive feedback about diet plan.,The diet plan was fantastic based on the user's experience.
+185,food,My experience with the Sushi was annoying.,negative,Negative feedback about Sushi.,The Sushi was annoying based on the user's experience.
+186,entertainment,My experience with the live concert was enjoyed it.,positive,Positive feedback about live concert.,The live concert was enjoyed it based on the user's experience.
+187,entertainment,My experience with the live concert was average.,neutral,Neutral feedback about live concert.,The live concert was average based on the user's experience.
+188,technology,My experience with the iPhone 15 was amazing.,positive,Positive feedback about iPhone 15.,The iPhone 15 was amazing based on the user's experience.
+189,healthcare,My experience with the medical app was not bad.,neutral,Neutral feedback about medical app.,The medical app was not bad based on the user's experience.
+190,food,My experience with the Burger was normal.,neutral,Neutral feedback about Burger.,The Burger was normal based on the user's experience.
+191,healthcare,My experience with the telemedicine was terrible.,negative,Negative feedback about telemedicine.,The telemedicine was terrible based on the user's experience.
+192,education,My experience with the MOOC was acceptable.,neutral,Neutral feedback about MOOC.,The MOOC was acceptable based on the user's experience.
+193,education,My experience with the MOOC was awesome.,positive,Positive feedback about MOOC.,The MOOC was awesome based on the user's experience.
+194,food,My experience with the Pizza was average.,neutral,Neutral feedback about Pizza.,The Pizza was average based on the user's experience.
+195,customer_service,My experience with the hotel staff was normal.,neutral,Neutral feedback about hotel staff.,The hotel staff was normal based on the user's experience.
+196,healthcare,My experience with the telemedicine was annoying.,negative,Negative feedback about telemedicine.,The telemedicine was annoying based on the user's experience.
+197,entertainment,My experience with the stand-up comedy was loved it.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was loved it based on the user's experience.
+198,healthcare,My experience with the fitness tracker was acceptable.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was acceptable based on the user's experience.
+199,entertainment,My experience with the video game was awesome.,positive,Positive feedback about video game.,The video game was awesome based on the user's experience.
+200,food,My experience with the Burger was acceptable.,neutral,Neutral feedback about Burger.,The Burger was acceptable based on the user's experience.
+201,technology,My experience with the iPhone 15 was not bad.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was not bad based on the user's experience.
+202,education,My experience with the coding bootcamp was hated it.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was hated it based on the user's experience.
+203,entertainment,My experience with the live concert was decent.,neutral,Neutral feedback about live concert.,The live concert was decent based on the user's experience.
+204,healthcare,My experience with the fitness tracker was average.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was average based on the user's experience.
+205,technology,My experience with the blockchain technology was awful.,negative,Negative feedback about blockchain technology.,The blockchain technology was awful based on the user's experience.
+206,food,My experience with the Pizza was acceptable.,neutral,Neutral feedback about Pizza.,The Pizza was acceptable based on the user's experience.
+207,customer_service,My experience with the hotel staff was disappointing.,negative,Negative feedback about hotel staff.,The hotel staff was disappointing based on the user's experience.
+208,education,My experience with the coding bootcamp was decent.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was decent based on the user's experience.
+209,education,My experience with the MOOC was terrible.,negative,Negative feedback about MOOC.,The MOOC was terrible based on the user's experience.
+210,food,My experience with the Sushi was disappointing.,negative,Negative feedback about Sushi.,The Sushi was disappointing based on the user's experience.
+211,customer_service,My experience with the restaurant service was annoying.,negative,Negative feedback about restaurant service.,The restaurant service was annoying based on the user's experience.
+212,healthcare,My experience with the telemedicine was bad.,negative,Negative feedback about telemedicine.,The telemedicine was bad based on the user's experience.
+213,entertainment,My experience with the video game was enjoyed it.,positive,Positive feedback about video game.,The video game was enjoyed it based on the user's experience.
+214,education,My experience with the textbook was mediocre.,neutral,Neutral feedback about textbook.,The textbook was mediocre based on the user's experience.
+215,education,My experience with the online course was awful.,negative,Negative feedback about online course.,The online course was awful based on the user's experience.
+216,entertainment,My experience with the Netflix series was not worth it.,negative,Negative feedback about Netflix series.,The Netflix series was not worth it based on the user's experience.
+217,education,My experience with the university program was average.,neutral,Neutral feedback about university program.,The university program was average based on the user's experience.
+218,food,My experience with the Burger was great.,positive,Positive feedback about Burger.,The Burger was great based on the user's experience.
+219,customer_service,My experience with the online support was disappointing.,negative,Negative feedback about online support.,The online support was disappointing based on the user's experience.
+220,entertainment,My experience with the Netflix series was not worth it.,negative,Negative feedback about Netflix series.,The Netflix series was not worth it based on the user's experience.
+221,customer_service,My experience with the restaurant service was awesome.,positive,Positive feedback about restaurant service.,The restaurant service was awesome based on the user's experience.
+222,food,My experience with the Pizza was acceptable.,neutral,Neutral feedback about Pizza.,The Pizza was acceptable based on the user's experience.
+223,entertainment,My experience with the new Marvel movie was boring.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was boring based on the user's experience.
+224,food,My experience with the Vegan meal was disappointing.,negative,Negative feedback about Vegan meal.,The Vegan meal was disappointing based on the user's experience.
+225,healthcare,My experience with the hospital experience was annoying.,negative,Negative feedback about hospital experience.,The hospital experience was annoying based on the user's experience.
+226,technology,My experience with the AI chatbot was disappointing.,negative,Negative feedback about AI chatbot.,The AI chatbot was disappointing based on the user's experience.
+227,customer_service,My experience with the online support was enjoyed it.,positive,Positive feedback about online support.,The online support was enjoyed it based on the user's experience.
+228,customer_service,My experience with the online support was disappointing.,negative,Negative feedback about online support.,The online support was disappointing based on the user's experience.
+229,customer_service,My experience with the delivery service was boring.,negative,Negative feedback about delivery service.,The delivery service was boring based on the user's experience.
+230,food,My experience with the Pasta was awesome.,positive,Positive feedback about Pasta.,The Pasta was awesome based on the user's experience.
+231,healthcare,My experience with the fitness tracker was awful.,negative,Negative feedback about fitness tracker.,The fitness tracker was awful based on the user's experience.
+232,education,My experience with the university program was satisfying.,positive,Positive feedback about university program.,The university program was satisfying based on the user's experience.
+233,customer_service,My experience with the restaurant service was superb.,positive,Positive feedback about restaurant service.,The restaurant service was superb based on the user's experience.
+234,education,My experience with the textbook was okay.,neutral,Neutral feedback about textbook.,The textbook was okay based on the user's experience.
+235,education,My experience with the university program was okay.,neutral,Neutral feedback about university program.,The university program was okay based on the user's experience.
+236,technology,My experience with the blockchain technology was hated it.,negative,Negative feedback about blockchain technology.,The blockchain technology was hated it based on the user's experience.
+237,food,My experience with the Vegan meal was disappointing.,negative,Negative feedback about Vegan meal.,The Vegan meal was disappointing based on the user's experience.
+238,entertainment,My experience with the new Marvel movie was terrible.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was terrible based on the user's experience.
+239,entertainment,My experience with the Netflix series was disappointing.,negative,Negative feedback about Netflix series.,The Netflix series was disappointing based on the user's experience.
+240,healthcare,My experience with the fitness tracker was annoying.,negative,Negative feedback about fitness tracker.,The fitness tracker was annoying based on the user's experience.
+241,education,My experience with the textbook was amazing.,positive,Positive feedback about textbook.,The textbook was amazing based on the user's experience.
+242,entertainment,My experience with the video game was normal.,neutral,Neutral feedback about video game.,The video game was normal based on the user's experience.
+243,technology,My experience with the self-driving car was fantastic.,positive,Positive feedback about self-driving car.,The self-driving car was fantastic based on the user's experience.
+244,entertainment,My experience with the Netflix series was annoying.,negative,Negative feedback about Netflix series.,The Netflix series was annoying based on the user's experience.
+245,healthcare,My experience with the diet plan was mediocre.,neutral,Neutral feedback about diet plan.,The diet plan was mediocre based on the user's experience.
+246,healthcare,My experience with the medical app was average.,neutral,Neutral feedback about medical app.,The medical app was average based on the user's experience.
+247,entertainment,My experience with the Netflix series was annoying.,negative,Negative feedback about Netflix series.,The Netflix series was annoying based on the user's experience.
+248,food,My experience with the Vegan meal was mediocre.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was mediocre based on the user's experience.
+249,food,My experience with the Burger was awful.,negative,Negative feedback about Burger.,The Burger was awful based on the user's experience.
+250,entertainment,My experience with the live concert was normal.,neutral,Neutral feedback about live concert.,The live concert was normal based on the user's experience.
+251,customer_service,My experience with the online support was boring.,negative,Negative feedback about online support.,The online support was boring based on the user's experience.
+252,food,My experience with the Pasta was fantastic.,positive,Positive feedback about Pasta.,The Pasta was fantastic based on the user's experience.
+253,entertainment,My experience with the Netflix series was awesome.,positive,Positive feedback about Netflix series.,The Netflix series was awesome based on the user's experience.
+254,food,My experience with the Vegan meal was boring.,negative,Negative feedback about Vegan meal.,The Vegan meal was boring based on the user's experience.
+255,food,My experience with the Pasta was satisfying.,positive,Positive feedback about Pasta.,The Pasta was satisfying based on the user's experience.
+256,food,My experience with the Pizza was boring.,negative,Negative feedback about Pizza.,The Pizza was boring based on the user's experience.
+257,technology,My experience with the self-driving car was not worth it.,negative,Negative feedback about self-driving car.,The self-driving car was not worth it based on the user's experience.
+258,technology,My experience with the blockchain technology was enjoyed it.,positive,Positive feedback about blockchain technology.,The blockchain technology was enjoyed it based on the user's experience.
+259,technology,My experience with the self-driving car was awesome.,positive,Positive feedback about self-driving car.,The self-driving car was awesome based on the user's experience.
+260,entertainment,My experience with the live concert was fine.,neutral,Neutral feedback about live concert.,The live concert was fine based on the user's experience.
+261,customer_service,My experience with the call center was loved it.,positive,Positive feedback about call center.,The call center was loved it based on the user's experience.
+262,technology,My experience with the quantum computer was fantastic.,positive,Positive feedback about quantum computer.,The quantum computer was fantastic based on the user's experience.
+263,technology,My experience with the quantum computer was normal.,neutral,Neutral feedback about quantum computer.,The quantum computer was normal based on the user's experience.
+264,customer_service,My experience with the hotel staff was not bad.,neutral,Neutral feedback about hotel staff.,The hotel staff was not bad based on the user's experience.
+265,education,My experience with the university program was okay.,neutral,Neutral feedback about university program.,The university program was okay based on the user's experience.
+266,customer_service,My experience with the restaurant service was awful.,negative,Negative feedback about restaurant service.,The restaurant service was awful based on the user's experience.
+267,healthcare,My experience with the medical app was acceptable.,neutral,Neutral feedback about medical app.,The medical app was acceptable based on the user's experience.
+268,customer_service,My experience with the call center was satisfying.,positive,Positive feedback about call center.,The call center was satisfying based on the user's experience.
+269,healthcare,My experience with the medical app was superb.,positive,Positive feedback about medical app.,The medical app was superb based on the user's experience.
+270,technology,My experience with the quantum computer was mediocre.,neutral,Neutral feedback about quantum computer.,The quantum computer was mediocre based on the user's experience.
+271,customer_service,My experience with the online support was awesome.,positive,Positive feedback about online support.,The online support was awesome based on the user's experience.
+272,technology,My experience with the self-driving car was superb.,positive,Positive feedback about self-driving car.,The self-driving car was superb based on the user's experience.
+273,entertainment,My experience with the Netflix series was superb.,positive,Positive feedback about Netflix series.,The Netflix series was superb based on the user's experience.
+274,technology,My experience with the iPhone 15 was amazing.,positive,Positive feedback about iPhone 15.,The iPhone 15 was amazing based on the user's experience.
+275,technology,My experience with the iPhone 15 was boring.,negative,Negative feedback about iPhone 15.,The iPhone 15 was boring based on the user's experience.
+276,healthcare,My experience with the telemedicine was satisfying.,positive,Positive feedback about telemedicine.,The telemedicine was satisfying based on the user's experience.
+277,healthcare,My experience with the telemedicine was not bad.,neutral,Neutral feedback about telemedicine.,The telemedicine was not bad based on the user's experience.
+278,entertainment,My experience with the new Marvel movie was fine.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was fine based on the user's experience.
+279,food,My experience with the Pizza was hated it.,negative,Negative feedback about Pizza.,The Pizza was hated it based on the user's experience.
+280,entertainment,My experience with the new Marvel movie was acceptable.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was acceptable based on the user's experience.
+281,customer_service,My experience with the restaurant service was mediocre.,neutral,Neutral feedback about restaurant service.,The restaurant service was mediocre based on the user's experience.
+282,education,My experience with the university program was average.,neutral,Neutral feedback about university program.,The university program was average based on the user's experience.
+283,entertainment,My experience with the live concert was hated it.,negative,Negative feedback about live concert.,The live concert was hated it based on the user's experience.
+284,technology,My experience with the self-driving car was not bad.,neutral,Neutral feedback about self-driving car.,The self-driving car was not bad based on the user's experience.
+285,technology,My experience with the blockchain technology was disappointing.,negative,Negative feedback about blockchain technology.,The blockchain technology was disappointing based on the user's experience.
+286,entertainment,My experience with the new Marvel movie was acceptable.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was acceptable based on the user's experience.
+287,food,My experience with the Pasta was superb.,positive,Positive feedback about Pasta.,The Pasta was superb based on the user's experience.
+288,healthcare,My experience with the hospital experience was fine.,neutral,Neutral feedback about hospital experience.,The hospital experience was fine based on the user's experience.
+289,education,My experience with the MOOC was enjoyed it.,positive,Positive feedback about MOOC.,The MOOC was enjoyed it based on the user's experience.
+290,healthcare,My experience with the telemedicine was superb.,positive,Positive feedback about telemedicine.,The telemedicine was superb based on the user's experience.
+291,entertainment,My experience with the video game was superb.,positive,Positive feedback about video game.,The video game was superb based on the user's experience.
+292,food,My experience with the Burger was boring.,negative,Negative feedback about Burger.,The Burger was boring based on the user's experience.
+293,education,My experience with the coding bootcamp was terrible.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was terrible based on the user's experience.
+294,healthcare,My experience with the telemedicine was not worth it.,negative,Negative feedback about telemedicine.,The telemedicine was not worth it based on the user's experience.
+295,food,My experience with the Pizza was terrible.,negative,Negative feedback about Pizza.,The Pizza was terrible based on the user's experience.
+296,food,My experience with the Vegan meal was decent.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was decent based on the user's experience.
+297,customer_service,My experience with the delivery service was normal.,neutral,Neutral feedback about delivery service.,The delivery service was normal based on the user's experience.
+298,food,My experience with the Sushi was not bad.,neutral,Neutral feedback about Sushi.,The Sushi was not bad based on the user's experience.
+299,food,My experience with the Burger was hated it.,negative,Negative feedback about Burger.,The Burger was hated it based on the user's experience.
+300,healthcare,My experience with the hospital experience was fantastic.,positive,Positive feedback about hospital experience.,The hospital experience was fantastic based on the user's experience.
+301,technology,My experience with the self-driving car was enjoyed it.,positive,Positive feedback about self-driving car.,The self-driving car was enjoyed it based on the user's experience.
+302,entertainment,My experience with the stand-up comedy was enjoyed it.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was enjoyed it based on the user's experience.
+303,healthcare,My experience with the fitness tracker was not bad.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was not bad based on the user's experience.
+304,food,My experience with the Vegan meal was amazing.,positive,Positive feedback about Vegan meal.,The Vegan meal was amazing based on the user's experience.
+305,food,My experience with the Pizza was not worth it.,negative,Negative feedback about Pizza.,The Pizza was not worth it based on the user's experience.
+306,entertainment,My experience with the video game was amazing.,positive,Positive feedback about video game.,The video game was amazing based on the user's experience.
+307,customer_service,My experience with the delivery service was mediocre.,neutral,Neutral feedback about delivery service.,The delivery service was mediocre based on the user's experience.
+308,food,My experience with the Pasta was normal.,neutral,Neutral feedback about Pasta.,The Pasta was normal based on the user's experience.
+309,entertainment,My experience with the new Marvel movie was awful.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was awful based on the user's experience.
+310,technology,My experience with the iPhone 15 was annoying.,negative,Negative feedback about iPhone 15.,The iPhone 15 was annoying based on the user's experience.
+311,education,My experience with the online course was okay.,neutral,Neutral feedback about online course.,The online course was okay based on the user's experience.
+312,food,My experience with the Sushi was awesome.,positive,Positive feedback about Sushi.,The Sushi was awesome based on the user's experience.
+313,education,My experience with the coding bootcamp was decent.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was decent based on the user's experience.
+314,food,My experience with the Pizza was fantastic.,positive,Positive feedback about Pizza.,The Pizza was fantastic based on the user's experience.
+315,education,My experience with the MOOC was satisfying.,positive,Positive feedback about MOOC.,The MOOC was satisfying based on the user's experience.
+316,food,My experience with the Pasta was loved it.,positive,Positive feedback about Pasta.,The Pasta was loved it based on the user's experience.
+317,customer_service,My experience with the hotel staff was superb.,positive,Positive feedback about hotel staff.,The hotel staff was superb based on the user's experience.
+318,healthcare,My experience with the medical app was great.,positive,Positive feedback about medical app.,The medical app was great based on the user's experience.
+319,entertainment,My experience with the video game was awful.,negative,Negative feedback about video game.,The video game was awful based on the user's experience.
+320,technology,My experience with the self-driving car was fantastic.,positive,Positive feedback about self-driving car.,The self-driving car was fantastic based on the user's experience.
+321,food,My experience with the Vegan meal was satisfying.,positive,Positive feedback about Vegan meal.,The Vegan meal was satisfying based on the user's experience.
+322,food,My experience with the Pasta was awesome.,positive,Positive feedback about Pasta.,The Pasta was awesome based on the user's experience.
+323,education,My experience with the online course was fantastic.,positive,Positive feedback about online course.,The online course was fantastic based on the user's experience.
+324,healthcare,My experience with the telemedicine was boring.,negative,Negative feedback about telemedicine.,The telemedicine was boring based on the user's experience.
+325,healthcare,My experience with the hospital experience was fantastic.,positive,Positive feedback about hospital experience.,The hospital experience was fantastic based on the user's experience.
+326,technology,My experience with the iPhone 15 was annoying.,negative,Negative feedback about iPhone 15.,The iPhone 15 was annoying based on the user's experience.
+327,technology,My experience with the blockchain technology was not bad.,neutral,Neutral feedback about blockchain technology.,The blockchain technology was not bad based on the user's experience.
+328,technology,My experience with the AI chatbot was great.,positive,Positive feedback about AI chatbot.,The AI chatbot was great based on the user's experience.
+329,education,My experience with the online course was annoying.,negative,Negative feedback about online course.,The online course was annoying based on the user's experience.
+330,education,My experience with the coding bootcamp was amazing.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was amazing based on the user's experience.
+331,healthcare,My experience with the medical app was bad.,negative,Negative feedback about medical app.,The medical app was bad based on the user's experience.
+332,entertainment,My experience with the Netflix series was not bad.,neutral,Neutral feedback about Netflix series.,The Netflix series was not bad based on the user's experience.
+333,technology,My experience with the blockchain technology was bad.,negative,Negative feedback about blockchain technology.,The blockchain technology was bad based on the user's experience.
+334,healthcare,My experience with the diet plan was mediocre.,neutral,Neutral feedback about diet plan.,The diet plan was mediocre based on the user's experience.
+335,technology,My experience with the self-driving car was loved it.,positive,Positive feedback about self-driving car.,The self-driving car was loved it based on the user's experience.
+336,education,My experience with the textbook was enjoyed it.,positive,Positive feedback about textbook.,The textbook was enjoyed it based on the user's experience.
+337,entertainment,My experience with the new Marvel movie was awesome.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was awesome based on the user's experience.
+338,technology,My experience with the self-driving car was hated it.,negative,Negative feedback about self-driving car.,The self-driving car was hated it based on the user's experience.
+339,education,My experience with the MOOC was acceptable.,neutral,Neutral feedback about MOOC.,The MOOC was acceptable based on the user's experience.
+340,technology,My experience with the blockchain technology was acceptable.,neutral,Neutral feedback about blockchain technology.,The blockchain technology was acceptable based on the user's experience.
+341,entertainment,My experience with the live concert was mediocre.,neutral,Neutral feedback about live concert.,The live concert was mediocre based on the user's experience.
+342,entertainment,My experience with the live concert was loved it.,positive,Positive feedback about live concert.,The live concert was loved it based on the user's experience.
+343,technology,My experience with the AI chatbot was boring.,negative,Negative feedback about AI chatbot.,The AI chatbot was boring based on the user's experience.
+344,technology,My experience with the AI chatbot was disappointing.,negative,Negative feedback about AI chatbot.,The AI chatbot was disappointing based on the user's experience.
+345,technology,My experience with the iPhone 15 was okay.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was okay based on the user's experience.
+346,entertainment,My experience with the live concert was average.,neutral,Neutral feedback about live concert.,The live concert was average based on the user's experience.
+347,healthcare,My experience with the fitness tracker was enjoyed it.,positive,Positive feedback about fitness tracker.,The fitness tracker was enjoyed it based on the user's experience.
+348,entertainment,My experience with the stand-up comedy was satisfying.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was satisfying based on the user's experience.
+349,technology,My experience with the AI chatbot was amazing.,positive,Positive feedback about AI chatbot.,The AI chatbot was amazing based on the user's experience.
+350,entertainment,My experience with the video game was satisfying.,positive,Positive feedback about video game.,The video game was satisfying based on the user's experience.
+351,entertainment,My experience with the new Marvel movie was fantastic.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was fantastic based on the user's experience.
+352,healthcare,My experience with the telemedicine was bad.,negative,Negative feedback about telemedicine.,The telemedicine was bad based on the user's experience.
+353,entertainment,My experience with the video game was mediocre.,neutral,Neutral feedback about video game.,The video game was mediocre based on the user's experience.
+354,healthcare,My experience with the diet plan was enjoyed it.,positive,Positive feedback about diet plan.,The diet plan was enjoyed it based on the user's experience.
+355,food,My experience with the Pizza was not worth it.,negative,Negative feedback about Pizza.,The Pizza was not worth it based on the user's experience.
+356,customer_service,My experience with the delivery service was awesome.,positive,Positive feedback about delivery service.,The delivery service was awesome based on the user's experience.
+357,education,My experience with the MOOC was loved it.,positive,Positive feedback about MOOC.,The MOOC was loved it based on the user's experience.
+358,entertainment,My experience with the live concert was amazing.,positive,Positive feedback about live concert.,The live concert was amazing based on the user's experience.
+359,entertainment,My experience with the new Marvel movie was normal.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was normal based on the user's experience.
+360,customer_service,My experience with the hotel staff was not worth it.,negative,Negative feedback about hotel staff.,The hotel staff was not worth it based on the user's experience.
+361,healthcare,My experience with the telemedicine was mediocre.,neutral,Neutral feedback about telemedicine.,The telemedicine was mediocre based on the user's experience.
+362,customer_service,My experience with the call center was disappointing.,negative,Negative feedback about call center.,The call center was disappointing based on the user's experience.
+363,education,My experience with the coding bootcamp was normal.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was normal based on the user's experience.
+364,customer_service,My experience with the hotel staff was fine.,neutral,Neutral feedback about hotel staff.,The hotel staff was fine based on the user's experience.
+365,technology,My experience with the self-driving car was okay.,neutral,Neutral feedback about self-driving car.,The self-driving car was okay based on the user's experience.
+366,food,My experience with the Sushi was okay.,neutral,Neutral feedback about Sushi.,The Sushi was okay based on the user's experience.
+367,customer_service,My experience with the online support was normal.,neutral,Neutral feedback about online support.,The online support was normal based on the user's experience.
+368,entertainment,My experience with the video game was superb.,positive,Positive feedback about video game.,The video game was superb based on the user's experience.
+369,customer_service,My experience with the call center was hated it.,negative,Negative feedback about call center.,The call center was hated it based on the user's experience.
+370,customer_service,My experience with the delivery service was mediocre.,neutral,Neutral feedback about delivery service.,The delivery service was mediocre based on the user's experience.
+371,customer_service,My experience with the delivery service was fine.,neutral,Neutral feedback about delivery service.,The delivery service was fine based on the user's experience.
+372,entertainment,My experience with the Netflix series was normal.,neutral,Neutral feedback about Netflix series.,The Netflix series was normal based on the user's experience.
+373,technology,My experience with the self-driving car was terrible.,negative,Negative feedback about self-driving car.,The self-driving car was terrible based on the user's experience.
+374,technology,My experience with the iPhone 15 was boring.,negative,Negative feedback about iPhone 15.,The iPhone 15 was boring based on the user's experience.
+375,technology,My experience with the quantum computer was average.,neutral,Neutral feedback about quantum computer.,The quantum computer was average based on the user's experience.
+376,education,My experience with the coding bootcamp was normal.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was normal based on the user's experience.
+377,food,My experience with the Burger was awesome.,positive,Positive feedback about Burger.,The Burger was awesome based on the user's experience.
+378,education,My experience with the MOOC was fine.,neutral,Neutral feedback about MOOC.,The MOOC was fine based on the user's experience.
+379,technology,My experience with the self-driving car was mediocre.,neutral,Neutral feedback about self-driving car.,The self-driving car was mediocre based on the user's experience.
+380,education,My experience with the textbook was fine.,neutral,Neutral feedback about textbook.,The textbook was fine based on the user's experience.
+381,technology,My experience with the blockchain technology was normal.,neutral,Neutral feedback about blockchain technology.,The blockchain technology was normal based on the user's experience.
+382,entertainment,My experience with the Netflix series was fantastic.,positive,Positive feedback about Netflix series.,The Netflix series was fantastic based on the user's experience.
+383,healthcare,My experience with the telemedicine was annoying.,negative,Negative feedback about telemedicine.,The telemedicine was annoying based on the user's experience.
+384,healthcare,My experience with the hospital experience was fine.,neutral,Neutral feedback about hospital experience.,The hospital experience was fine based on the user's experience.
+385,healthcare,My experience with the medical app was great.,positive,Positive feedback about medical app.,The medical app was great based on the user's experience.
+386,healthcare,My experience with the medical app was okay.,neutral,Neutral feedback about medical app.,The medical app was okay based on the user's experience.
+387,food,My experience with the Vegan meal was superb.,positive,Positive feedback about Vegan meal.,The Vegan meal was superb based on the user's experience.
+388,food,My experience with the Vegan meal was satisfying.,positive,Positive feedback about Vegan meal.,The Vegan meal was satisfying based on the user's experience.
+389,food,My experience with the Pasta was annoying.,negative,Negative feedback about Pasta.,The Pasta was annoying based on the user's experience.
+390,customer_service,My experience with the hotel staff was amazing.,positive,Positive feedback about hotel staff.,The hotel staff was amazing based on the user's experience.
+391,healthcare,My experience with the medical app was hated it.,negative,Negative feedback about medical app.,The medical app was hated it based on the user's experience.
+392,food,My experience with the Vegan meal was not worth it.,negative,Negative feedback about Vegan meal.,The Vegan meal was not worth it based on the user's experience.
+393,customer_service,My experience with the hotel staff was disappointing.,negative,Negative feedback about hotel staff.,The hotel staff was disappointing based on the user's experience.
+394,technology,My experience with the iPhone 15 was not bad.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was not bad based on the user's experience.
+395,customer_service,My experience with the delivery service was disappointing.,negative,Negative feedback about delivery service.,The delivery service was disappointing based on the user's experience.
+396,healthcare,My experience with the fitness tracker was decent.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was decent based on the user's experience.
+397,healthcare,My experience with the hospital experience was loved it.,positive,Positive feedback about hospital experience.,The hospital experience was loved it based on the user's experience.
+398,food,My experience with the Pasta was superb.,positive,Positive feedback about Pasta.,The Pasta was superb based on the user's experience.
+399,entertainment,My experience with the stand-up comedy was not worth it.,negative,Negative feedback about stand-up comedy.,The stand-up comedy was not worth it based on the user's experience.
+400,entertainment,My experience with the new Marvel movie was great.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was great based on the user's experience.
+401,education,My experience with the MOOC was average.,neutral,Neutral feedback about MOOC.,The MOOC was average based on the user's experience.
+402,technology,My experience with the self-driving car was mediocre.,neutral,Neutral feedback about self-driving car.,The self-driving car was mediocre based on the user's experience.
+403,education,My experience with the textbook was okay.,neutral,Neutral feedback about textbook.,The textbook was okay based on the user's experience.
+404,food,My experience with the Sushi was decent.,neutral,Neutral feedback about Sushi.,The Sushi was decent based on the user's experience.
+405,healthcare,My experience with the fitness tracker was decent.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was decent based on the user's experience.
+406,customer_service,My experience with the call center was awful.,negative,Negative feedback about call center.,The call center was awful based on the user's experience.
+407,education,My experience with the coding bootcamp was boring.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was boring based on the user's experience.
+408,customer_service,My experience with the hotel staff was bad.,negative,Negative feedback about hotel staff.,The hotel staff was bad based on the user's experience.
+409,food,My experience with the Burger was disappointing.,negative,Negative feedback about Burger.,The Burger was disappointing based on the user's experience.
+410,customer_service,My experience with the call center was satisfying.,positive,Positive feedback about call center.,The call center was satisfying based on the user's experience.
+411,technology,My experience with the blockchain technology was hated it.,negative,Negative feedback about blockchain technology.,The blockchain technology was hated it based on the user's experience.
+412,food,My experience with the Pizza was loved it.,positive,Positive feedback about Pizza.,The Pizza was loved it based on the user's experience.
+413,education,My experience with the online course was satisfying.,positive,Positive feedback about online course.,The online course was satisfying based on the user's experience.
+414,entertainment,My experience with the video game was mediocre.,neutral,Neutral feedback about video game.,The video game was mediocre based on the user's experience.
+415,technology,My experience with the AI chatbot was mediocre.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was mediocre based on the user's experience.
+416,customer_service,My experience with the restaurant service was normal.,neutral,Neutral feedback about restaurant service.,The restaurant service was normal based on the user's experience.
+417,customer_service,My experience with the restaurant service was awful.,negative,Negative feedback about restaurant service.,The restaurant service was awful based on the user's experience.
+418,food,My experience with the Pasta was boring.,negative,Negative feedback about Pasta.,The Pasta was boring based on the user's experience.
+419,technology,My experience with the iPhone 15 was average.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was average based on the user's experience.
+420,entertainment,My experience with the Netflix series was decent.,neutral,Neutral feedback about Netflix series.,The Netflix series was decent based on the user's experience.
+421,technology,My experience with the AI chatbot was enjoyed it.,positive,Positive feedback about AI chatbot.,The AI chatbot was enjoyed it based on the user's experience.
+422,healthcare,My experience with the telemedicine was normal.,neutral,Neutral feedback about telemedicine.,The telemedicine was normal based on the user's experience.
+423,customer_service,My experience with the restaurant service was not worth it.,negative,Negative feedback about restaurant service.,The restaurant service was not worth it based on the user's experience.
+424,healthcare,My experience with the fitness tracker was superb.,positive,Positive feedback about fitness tracker.,The fitness tracker was superb based on the user's experience.
+425,technology,My experience with the iPhone 15 was satisfying.,positive,Positive feedback about iPhone 15.,The iPhone 15 was satisfying based on the user's experience.
+426,education,My experience with the coding bootcamp was bad.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was bad based on the user's experience.
+427,customer_service,My experience with the restaurant service was bad.,negative,Negative feedback about restaurant service.,The restaurant service was bad based on the user's experience.
+428,food,My experience with the Pasta was annoying.,negative,Negative feedback about Pasta.,The Pasta was annoying based on the user's experience.
+429,entertainment,My experience with the new Marvel movie was normal.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was normal based on the user's experience.
+430,healthcare,My experience with the fitness tracker was fine.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was fine based on the user's experience.
+431,food,My experience with the Pizza was terrible.,negative,Negative feedback about Pizza.,The Pizza was terrible based on the user's experience.
+432,food,My experience with the Burger was average.,neutral,Neutral feedback about Burger.,The Burger was average based on the user's experience.
+433,technology,My experience with the iPhone 15 was annoying.,negative,Negative feedback about iPhone 15.,The iPhone 15 was annoying based on the user's experience.
+434,healthcare,My experience with the diet plan was superb.,positive,Positive feedback about diet plan.,The diet plan was superb based on the user's experience.
+435,healthcare,My experience with the medical app was decent.,neutral,Neutral feedback about medical app.,The medical app was decent based on the user's experience.
+436,entertainment,My experience with the new Marvel movie was acceptable.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was acceptable based on the user's experience.
+437,customer_service,My experience with the hotel staff was decent.,neutral,Neutral feedback about hotel staff.,The hotel staff was decent based on the user's experience.
+438,education,My experience with the university program was loved it.,positive,Positive feedback about university program.,The university program was loved it based on the user's experience.
+439,technology,My experience with the quantum computer was not worth it.,negative,Negative feedback about quantum computer.,The quantum computer was not worth it based on the user's experience.
+440,food,My experience with the Pizza was not worth it.,negative,Negative feedback about Pizza.,The Pizza was not worth it based on the user's experience.
+441,food,My experience with the Pasta was not bad.,neutral,Neutral feedback about Pasta.,The Pasta was not bad based on the user's experience.
+442,food,My experience with the Sushi was superb.,positive,Positive feedback about Sushi.,The Sushi was superb based on the user's experience.
+443,healthcare,My experience with the fitness tracker was normal.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was normal based on the user's experience.
+444,customer_service,My experience with the call center was okay.,neutral,Neutral feedback about call center.,The call center was okay based on the user's experience.
+445,customer_service,My experience with the hotel staff was decent.,neutral,Neutral feedback about hotel staff.,The hotel staff was decent based on the user's experience.
+446,healthcare,My experience with the hospital experience was not bad.,neutral,Neutral feedback about hospital experience.,The hospital experience was not bad based on the user's experience.
+447,technology,My experience with the iPhone 15 was amazing.,positive,Positive feedback about iPhone 15.,The iPhone 15 was amazing based on the user's experience.
+448,entertainment,My experience with the live concert was loved it.,positive,Positive feedback about live concert.,The live concert was loved it based on the user's experience.
+449,education,My experience with the university program was terrible.,negative,Negative feedback about university program.,The university program was terrible based on the user's experience.
+450,food,My experience with the Vegan meal was boring.,negative,Negative feedback about Vegan meal.,The Vegan meal was boring based on the user's experience.
+451,customer_service,My experience with the call center was disappointing.,negative,Negative feedback about call center.,The call center was disappointing based on the user's experience.
+452,food,My experience with the Burger was average.,neutral,Neutral feedback about Burger.,The Burger was average based on the user's experience.
+453,healthcare,My experience with the fitness tracker was boring.,negative,Negative feedback about fitness tracker.,The fitness tracker was boring based on the user's experience.
+454,food,My experience with the Vegan meal was satisfying.,positive,Positive feedback about Vegan meal.,The Vegan meal was satisfying based on the user's experience.
+455,technology,My experience with the iPhone 15 was mediocre.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was mediocre based on the user's experience.
+456,healthcare,My experience with the fitness tracker was awful.,negative,Negative feedback about fitness tracker.,The fitness tracker was awful based on the user's experience.
+457,food,My experience with the Pasta was normal.,neutral,Neutral feedback about Pasta.,The Pasta was normal based on the user's experience.
+458,entertainment,My experience with the new Marvel movie was great.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was great based on the user's experience.
+459,healthcare,My experience with the fitness tracker was acceptable.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was acceptable based on the user's experience.
+460,food,My experience with the Vegan meal was average.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was average based on the user's experience.
+461,entertainment,My experience with the video game was fantastic.,positive,Positive feedback about video game.,The video game was fantastic based on the user's experience.
+462,food,My experience with the Vegan meal was great.,positive,Positive feedback about Vegan meal.,The Vegan meal was great based on the user's experience.
+463,education,My experience with the MOOC was okay.,neutral,Neutral feedback about MOOC.,The MOOC was okay based on the user's experience.
+464,customer_service,My experience with the restaurant service was disappointing.,negative,Negative feedback about restaurant service.,The restaurant service was disappointing based on the user's experience.
+465,education,My experience with the textbook was fantastic.,positive,Positive feedback about textbook.,The textbook was fantastic based on the user's experience.
+466,entertainment,My experience with the video game was awful.,negative,Negative feedback about video game.,The video game was awful based on the user's experience.
+467,healthcare,My experience with the medical app was not worth it.,negative,Negative feedback about medical app.,The medical app was not worth it based on the user's experience.
+468,healthcare,My experience with the diet plan was okay.,neutral,Neutral feedback about diet plan.,The diet plan was okay based on the user's experience.
+469,healthcare,My experience with the hospital experience was superb.,positive,Positive feedback about hospital experience.,The hospital experience was superb based on the user's experience.
+470,education,My experience with the MOOC was bad.,negative,Negative feedback about MOOC.,The MOOC was bad based on the user's experience.
+471,food,My experience with the Sushi was acceptable.,neutral,Neutral feedback about Sushi.,The Sushi was acceptable based on the user's experience.
+472,technology,My experience with the quantum computer was awful.,negative,Negative feedback about quantum computer.,The quantum computer was awful based on the user's experience.
+473,customer_service,My experience with the delivery service was enjoyed it.,positive,Positive feedback about delivery service.,The delivery service was enjoyed it based on the user's experience.
+474,customer_service,My experience with the restaurant service was superb.,positive,Positive feedback about restaurant service.,The restaurant service was superb based on the user's experience.
+475,customer_service,My experience with the hotel staff was fine.,neutral,Neutral feedback about hotel staff.,The hotel staff was fine based on the user's experience.
+476,education,My experience with the MOOC was not worth it.,negative,Negative feedback about MOOC.,The MOOC was not worth it based on the user's experience.
+477,education,My experience with the textbook was not bad.,neutral,Neutral feedback about textbook.,The textbook was not bad based on the user's experience.
+478,healthcare,My experience with the hospital experience was not bad.,neutral,Neutral feedback about hospital experience.,The hospital experience was not bad based on the user's experience.
+479,entertainment,My experience with the video game was fine.,neutral,Neutral feedback about video game.,The video game was fine based on the user's experience.
+480,technology,My experience with the iPhone 15 was hated it.,negative,Negative feedback about iPhone 15.,The iPhone 15 was hated it based on the user's experience.
+481,food,My experience with the Sushi was disappointing.,negative,Negative feedback about Sushi.,The Sushi was disappointing based on the user's experience.
+482,education,My experience with the university program was awesome.,positive,Positive feedback about university program.,The university program was awesome based on the user's experience.
+483,technology,My experience with the AI chatbot was boring.,negative,Negative feedback about AI chatbot.,The AI chatbot was boring based on the user's experience.
+484,education,My experience with the online course was fine.,neutral,Neutral feedback about online course.,The online course was fine based on the user's experience.
+485,food,My experience with the Pasta was enjoyed it.,positive,Positive feedback about Pasta.,The Pasta was enjoyed it based on the user's experience.
+486,food,My experience with the Burger was boring.,negative,Negative feedback about Burger.,The Burger was boring based on the user's experience.
+487,education,My experience with the MOOC was average.,neutral,Neutral feedback about MOOC.,The MOOC was average based on the user's experience.
+488,customer_service,My experience with the delivery service was superb.,positive,Positive feedback about delivery service.,The delivery service was superb based on the user's experience.
+489,education,My experience with the MOOC was satisfying.,positive,Positive feedback about MOOC.,The MOOC was satisfying based on the user's experience.
+490,education,My experience with the MOOC was not worth it.,negative,Negative feedback about MOOC.,The MOOC was not worth it based on the user's experience.
+491,entertainment,My experience with the new Marvel movie was awful.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was awful based on the user's experience.
+492,customer_service,My experience with the delivery service was hated it.,negative,Negative feedback about delivery service.,The delivery service was hated it based on the user's experience.
+493,healthcare,My experience with the fitness tracker was terrible.,negative,Negative feedback about fitness tracker.,The fitness tracker was terrible based on the user's experience.
+494,entertainment,My experience with the Netflix series was bad.,negative,Negative feedback about Netflix series.,The Netflix series was bad based on the user's experience.
+495,technology,My experience with the AI chatbot was annoying.,negative,Negative feedback about AI chatbot.,The AI chatbot was annoying based on the user's experience.
+496,entertainment,My experience with the new Marvel movie was decent.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was decent based on the user's experience.
+497,technology,My experience with the quantum computer was not bad.,neutral,Neutral feedback about quantum computer.,The quantum computer was not bad based on the user's experience.
+498,entertainment,My experience with the Netflix series was fantastic.,positive,Positive feedback about Netflix series.,The Netflix series was fantastic based on the user's experience.
+499,customer_service,My experience with the restaurant service was awesome.,positive,Positive feedback about restaurant service.,The restaurant service was awesome based on the user's experience.
+500,entertainment,My experience with the stand-up comedy was not worth it.,negative,Negative feedback about stand-up comedy.,The stand-up comedy was not worth it based on the user's experience.
+501,customer_service,My experience with the delivery service was fantastic.,positive,Positive feedback about delivery service.,The delivery service was fantastic based on the user's experience.
+502,entertainment,My experience with the live concert was amazing.,positive,Positive feedback about live concert.,The live concert was amazing based on the user's experience.
+503,technology,My experience with the self-driving car was normal.,neutral,Neutral feedback about self-driving car.,The self-driving car was normal based on the user's experience.
+504,education,My experience with the MOOC was average.,neutral,Neutral feedback about MOOC.,The MOOC was average based on the user's experience.
+505,entertainment,My experience with the Netflix series was fantastic.,positive,Positive feedback about Netflix series.,The Netflix series was fantastic based on the user's experience.
+506,food,My experience with the Pasta was terrible.,negative,Negative feedback about Pasta.,The Pasta was terrible based on the user's experience.
+507,education,My experience with the university program was superb.,positive,Positive feedback about university program.,The university program was superb based on the user's experience.
+508,technology,My experience with the AI chatbot was awful.,negative,Negative feedback about AI chatbot.,The AI chatbot was awful based on the user's experience.
+509,food,My experience with the Sushi was not worth it.,negative,Negative feedback about Sushi.,The Sushi was not worth it based on the user's experience.
+510,technology,My experience with the AI chatbot was loved it.,positive,Positive feedback about AI chatbot.,The AI chatbot was loved it based on the user's experience.
+511,entertainment,My experience with the video game was great.,positive,Positive feedback about video game.,The video game was great based on the user's experience.
+512,education,My experience with the university program was great.,positive,Positive feedback about university program.,The university program was great based on the user's experience.
+513,education,My experience with the online course was okay.,neutral,Neutral feedback about online course.,The online course was okay based on the user's experience.
+514,food,My experience with the Sushi was normal.,neutral,Neutral feedback about Sushi.,The Sushi was normal based on the user's experience.
+515,food,My experience with the Burger was awesome.,positive,Positive feedback about Burger.,The Burger was awesome based on the user's experience.
+516,education,My experience with the textbook was amazing.,positive,Positive feedback about textbook.,The textbook was amazing based on the user's experience.
+517,entertainment,My experience with the Netflix series was disappointing.,negative,Negative feedback about Netflix series.,The Netflix series was disappointing based on the user's experience.
+518,entertainment,My experience with the live concert was disappointing.,negative,Negative feedback about live concert.,The live concert was disappointing based on the user's experience.
+519,education,My experience with the MOOC was satisfying.,positive,Positive feedback about MOOC.,The MOOC was satisfying based on the user's experience.
+520,technology,My experience with the blockchain technology was awesome.,positive,Positive feedback about blockchain technology.,The blockchain technology was awesome based on the user's experience.
+521,customer_service,My experience with the hotel staff was awful.,negative,Negative feedback about hotel staff.,The hotel staff was awful based on the user's experience.
+522,customer_service,My experience with the online support was satisfying.,positive,Positive feedback about online support.,The online support was satisfying based on the user's experience.
+523,healthcare,My experience with the fitness tracker was great.,positive,Positive feedback about fitness tracker.,The fitness tracker was great based on the user's experience.
+524,education,My experience with the university program was acceptable.,neutral,Neutral feedback about university program.,The university program was acceptable based on the user's experience.
+525,healthcare,My experience with the medical app was fantastic.,positive,Positive feedback about medical app.,The medical app was fantastic based on the user's experience.
+526,customer_service,My experience with the restaurant service was hated it.,negative,Negative feedback about restaurant service.,The restaurant service was hated it based on the user's experience.
+527,customer_service,My experience with the hotel staff was annoying.,negative,Negative feedback about hotel staff.,The hotel staff was annoying based on the user's experience.
+528,healthcare,My experience with the telemedicine was not worth it.,negative,Negative feedback about telemedicine.,The telemedicine was not worth it based on the user's experience.
+529,entertainment,My experience with the live concert was disappointing.,negative,Negative feedback about live concert.,The live concert was disappointing based on the user's experience.
+530,food,My experience with the Pasta was awesome.,positive,Positive feedback about Pasta.,The Pasta was awesome based on the user's experience.
+531,technology,My experience with the self-driving car was superb.,positive,Positive feedback about self-driving car.,The self-driving car was superb based on the user's experience.
+532,technology,My experience with the self-driving car was boring.,negative,Negative feedback about self-driving car.,The self-driving car was boring based on the user's experience.
+533,customer_service,My experience with the call center was great.,positive,Positive feedback about call center.,The call center was great based on the user's experience.
+534,technology,My experience with the iPhone 15 was normal.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was normal based on the user's experience.
+535,education,My experience with the textbook was mediocre.,neutral,Neutral feedback about textbook.,The textbook was mediocre based on the user's experience.
+536,entertainment,My experience with the new Marvel movie was annoying.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was annoying based on the user's experience.
+537,customer_service,My experience with the hotel staff was not worth it.,negative,Negative feedback about hotel staff.,The hotel staff was not worth it based on the user's experience.
+538,healthcare,My experience with the diet plan was mediocre.,neutral,Neutral feedback about diet plan.,The diet plan was mediocre based on the user's experience.
+539,customer_service,My experience with the restaurant service was not worth it.,negative,Negative feedback about restaurant service.,The restaurant service was not worth it based on the user's experience.
+540,healthcare,My experience with the diet plan was awesome.,positive,Positive feedback about diet plan.,The diet plan was awesome based on the user's experience.
+541,food,My experience with the Burger was hated it.,negative,Negative feedback about Burger.,The Burger was hated it based on the user's experience.
+542,entertainment,My experience with the stand-up comedy was fine.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was fine based on the user's experience.
+543,customer_service,My experience with the restaurant service was boring.,negative,Negative feedback about restaurant service.,The restaurant service was boring based on the user's experience.
+544,healthcare,My experience with the hospital experience was great.,positive,Positive feedback about hospital experience.,The hospital experience was great based on the user's experience.
+545,healthcare,My experience with the medical app was boring.,negative,Negative feedback about medical app.,The medical app was boring based on the user's experience.
+546,technology,My experience with the iPhone 15 was average.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was average based on the user's experience.
+547,customer_service,My experience with the online support was okay.,neutral,Neutral feedback about online support.,The online support was okay based on the user's experience.
+548,food,My experience with the Vegan meal was decent.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was decent based on the user's experience.
+549,education,My experience with the MOOC was loved it.,positive,Positive feedback about MOOC.,The MOOC was loved it based on the user's experience.
+550,healthcare,My experience with the fitness tracker was decent.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was decent based on the user's experience.
+551,technology,My experience with the quantum computer was superb.,positive,Positive feedback about quantum computer.,The quantum computer was superb based on the user's experience.
+552,customer_service,My experience with the hotel staff was average.,neutral,Neutral feedback about hotel staff.,The hotel staff was average based on the user's experience.
+553,healthcare,My experience with the telemedicine was acceptable.,neutral,Neutral feedback about telemedicine.,The telemedicine was acceptable based on the user's experience.
+554,technology,My experience with the iPhone 15 was mediocre.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was mediocre based on the user's experience.
+555,technology,My experience with the iPhone 15 was satisfying.,positive,Positive feedback about iPhone 15.,The iPhone 15 was satisfying based on the user's experience.
+556,entertainment,My experience with the new Marvel movie was boring.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was boring based on the user's experience.
+557,healthcare,My experience with the hospital experience was not bad.,neutral,Neutral feedback about hospital experience.,The hospital experience was not bad based on the user's experience.
+558,entertainment,My experience with the Netflix series was okay.,neutral,Neutral feedback about Netflix series.,The Netflix series was okay based on the user's experience.
+559,entertainment,My experience with the stand-up comedy was average.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was average based on the user's experience.
+560,education,My experience with the online course was decent.,neutral,Neutral feedback about online course.,The online course was decent based on the user's experience.
+561,customer_service,My experience with the restaurant service was great.,positive,Positive feedback about restaurant service.,The restaurant service was great based on the user's experience.
+562,food,My experience with the Pizza was mediocre.,neutral,Neutral feedback about Pizza.,The Pizza was mediocre based on the user's experience.
+563,technology,My experience with the AI chatbot was acceptable.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was acceptable based on the user's experience.
+564,education,My experience with the coding bootcamp was bad.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was bad based on the user's experience.
+565,food,My experience with the Vegan meal was superb.,positive,Positive feedback about Vegan meal.,The Vegan meal was superb based on the user's experience.
+566,food,My experience with the Pasta was terrible.,negative,Negative feedback about Pasta.,The Pasta was terrible based on the user's experience.
+567,entertainment,My experience with the video game was not worth it.,negative,Negative feedback about video game.,The video game was not worth it based on the user's experience.
+568,healthcare,My experience with the telemedicine was superb.,positive,Positive feedback about telemedicine.,The telemedicine was superb based on the user's experience.
+569,customer_service,My experience with the restaurant service was superb.,positive,Positive feedback about restaurant service.,The restaurant service was superb based on the user's experience.
+570,entertainment,My experience with the new Marvel movie was boring.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was boring based on the user's experience.
+571,food,My experience with the Vegan meal was awful.,negative,Negative feedback about Vegan meal.,The Vegan meal was awful based on the user's experience.
+572,healthcare,My experience with the telemedicine was annoying.,negative,Negative feedback about telemedicine.,The telemedicine was annoying based on the user's experience.
+573,food,My experience with the Pasta was disappointing.,negative,Negative feedback about Pasta.,The Pasta was disappointing based on the user's experience.
+574,healthcare,My experience with the fitness tracker was loved it.,positive,Positive feedback about fitness tracker.,The fitness tracker was loved it based on the user's experience.
+575,customer_service,My experience with the online support was boring.,negative,Negative feedback about online support.,The online support was boring based on the user's experience.
+576,customer_service,My experience with the hotel staff was awesome.,positive,Positive feedback about hotel staff.,The hotel staff was awesome based on the user's experience.
+577,technology,My experience with the blockchain technology was hated it.,negative,Negative feedback about blockchain technology.,The blockchain technology was hated it based on the user's experience.
+578,technology,My experience with the iPhone 15 was superb.,positive,Positive feedback about iPhone 15.,The iPhone 15 was superb based on the user's experience.
+579,education,My experience with the university program was hated it.,negative,Negative feedback about university program.,The university program was hated it based on the user's experience.
+580,food,My experience with the Burger was not bad.,neutral,Neutral feedback about Burger.,The Burger was not bad based on the user's experience.
+581,technology,My experience with the quantum computer was boring.,negative,Negative feedback about quantum computer.,The quantum computer was boring based on the user's experience.
+582,technology,My experience with the AI chatbot was normal.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was normal based on the user's experience.
+583,healthcare,My experience with the medical app was normal.,neutral,Neutral feedback about medical app.,The medical app was normal based on the user's experience.
+584,customer_service,My experience with the delivery service was normal.,neutral,Neutral feedback about delivery service.,The delivery service was normal based on the user's experience.
+585,entertainment,My experience with the video game was okay.,neutral,Neutral feedback about video game.,The video game was okay based on the user's experience.
+586,entertainment,My experience with the new Marvel movie was annoying.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was annoying based on the user's experience.
+587,food,My experience with the Vegan meal was disappointing.,negative,Negative feedback about Vegan meal.,The Vegan meal was disappointing based on the user's experience.
+588,food,My experience with the Sushi was amazing.,positive,Positive feedback about Sushi.,The Sushi was amazing based on the user's experience.
+589,education,My experience with the coding bootcamp was bad.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was bad based on the user's experience.
+590,entertainment,My experience with the new Marvel movie was awesome.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was awesome based on the user's experience.
+591,customer_service,My experience with the online support was acceptable.,neutral,Neutral feedback about online support.,The online support was acceptable based on the user's experience.
+592,entertainment,My experience with the new Marvel movie was superb.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was superb based on the user's experience.
+593,healthcare,My experience with the telemedicine was decent.,neutral,Neutral feedback about telemedicine.,The telemedicine was decent based on the user's experience.
+594,food,My experience with the Sushi was terrible.,negative,Negative feedback about Sushi.,The Sushi was terrible based on the user's experience.
+595,technology,My experience with the AI chatbot was normal.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was normal based on the user's experience.
+596,customer_service,My experience with the call center was loved it.,positive,Positive feedback about call center.,The call center was loved it based on the user's experience.
+597,healthcare,My experience with the fitness tracker was superb.,positive,Positive feedback about fitness tracker.,The fitness tracker was superb based on the user's experience.
+598,food,My experience with the Sushi was disappointing.,negative,Negative feedback about Sushi.,The Sushi was disappointing based on the user's experience.
+599,entertainment,My experience with the live concert was loved it.,positive,Positive feedback about live concert.,The live concert was loved it based on the user's experience.
+600,customer_service,My experience with the hotel staff was terrible.,negative,Negative feedback about hotel staff.,The hotel staff was terrible based on the user's experience.
+601,education,My experience with the coding bootcamp was loved it.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was loved it based on the user's experience.
+602,education,My experience with the university program was awful.,negative,Negative feedback about university program.,The university program was awful based on the user's experience.
+603,education,My experience with the MOOC was mediocre.,neutral,Neutral feedback about MOOC.,The MOOC was mediocre based on the user's experience.
+604,entertainment,My experience with the live concert was acceptable.,neutral,Neutral feedback about live concert.,The live concert was acceptable based on the user's experience.
+605,food,My experience with the Burger was okay.,neutral,Neutral feedback about Burger.,The Burger was okay based on the user's experience.
+606,technology,My experience with the AI chatbot was normal.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was normal based on the user's experience.
+607,technology,My experience with the iPhone 15 was awesome.,positive,Positive feedback about iPhone 15.,The iPhone 15 was awesome based on the user's experience.
+608,entertainment,My experience with the stand-up comedy was normal.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was normal based on the user's experience.
+609,technology,My experience with the iPhone 15 was decent.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was decent based on the user's experience.
+610,education,My experience with the textbook was decent.,neutral,Neutral feedback about textbook.,The textbook was decent based on the user's experience.
+611,healthcare,My experience with the telemedicine was normal.,neutral,Neutral feedback about telemedicine.,The telemedicine was normal based on the user's experience.
+612,technology,My experience with the iPhone 15 was fine.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was fine based on the user's experience.
+613,food,My experience with the Burger was average.,neutral,Neutral feedback about Burger.,The Burger was average based on the user's experience.
+614,healthcare,My experience with the telemedicine was superb.,positive,Positive feedback about telemedicine.,The telemedicine was superb based on the user's experience.
+615,customer_service,My experience with the restaurant service was fine.,neutral,Neutral feedback about restaurant service.,The restaurant service was fine based on the user's experience.
+616,technology,My experience with the AI chatbot was hated it.,negative,Negative feedback about AI chatbot.,The AI chatbot was hated it based on the user's experience.
+617,customer_service,My experience with the online support was acceptable.,neutral,Neutral feedback about online support.,The online support was acceptable based on the user's experience.
+618,healthcare,My experience with the telemedicine was superb.,positive,Positive feedback about telemedicine.,The telemedicine was superb based on the user's experience.
+619,technology,My experience with the iPhone 15 was hated it.,negative,Negative feedback about iPhone 15.,The iPhone 15 was hated it based on the user's experience.
+620,customer_service,My experience with the hotel staff was terrible.,negative,Negative feedback about hotel staff.,The hotel staff was terrible based on the user's experience.
+621,technology,My experience with the iPhone 15 was annoying.,negative,Negative feedback about iPhone 15.,The iPhone 15 was annoying based on the user's experience.
+622,customer_service,My experience with the call center was disappointing.,negative,Negative feedback about call center.,The call center was disappointing based on the user's experience.
+623,customer_service,My experience with the delivery service was average.,neutral,Neutral feedback about delivery service.,The delivery service was average based on the user's experience.
+624,food,My experience with the Burger was loved it.,positive,Positive feedback about Burger.,The Burger was loved it based on the user's experience.
+625,customer_service,My experience with the delivery service was normal.,neutral,Neutral feedback about delivery service.,The delivery service was normal based on the user's experience.
+626,education,My experience with the online course was awful.,negative,Negative feedback about online course.,The online course was awful based on the user's experience.
+627,customer_service,My experience with the delivery service was fantastic.,positive,Positive feedback about delivery service.,The delivery service was fantastic based on the user's experience.
+628,customer_service,My experience with the online support was hated it.,negative,Negative feedback about online support.,The online support was hated it based on the user's experience.
+629,technology,My experience with the iPhone 15 was enjoyed it.,positive,Positive feedback about iPhone 15.,The iPhone 15 was enjoyed it based on the user's experience.
+630,entertainment,My experience with the video game was okay.,neutral,Neutral feedback about video game.,The video game was okay based on the user's experience.
+631,customer_service,My experience with the online support was acceptable.,neutral,Neutral feedback about online support.,The online support was acceptable based on the user's experience.
+632,entertainment,My experience with the live concert was not worth it.,negative,Negative feedback about live concert.,The live concert was not worth it based on the user's experience.
+633,education,My experience with the MOOC was amazing.,positive,Positive feedback about MOOC.,The MOOC was amazing based on the user's experience.
+634,entertainment,My experience with the video game was great.,positive,Positive feedback about video game.,The video game was great based on the user's experience.
+635,entertainment,My experience with the live concert was amazing.,positive,Positive feedback about live concert.,The live concert was amazing based on the user's experience.
+636,technology,My experience with the iPhone 15 was disappointing.,negative,Negative feedback about iPhone 15.,The iPhone 15 was disappointing based on the user's experience.
+637,customer_service,My experience with the online support was satisfying.,positive,Positive feedback about online support.,The online support was satisfying based on the user's experience.
+638,customer_service,My experience with the online support was awful.,negative,Negative feedback about online support.,The online support was awful based on the user's experience.
+639,education,My experience with the coding bootcamp was enjoyed it.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was enjoyed it based on the user's experience.
+640,education,My experience with the textbook was satisfying.,positive,Positive feedback about textbook.,The textbook was satisfying based on the user's experience.
+641,entertainment,My experience with the stand-up comedy was not bad.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was not bad based on the user's experience.
+642,technology,My experience with the AI chatbot was average.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was average based on the user's experience.
+643,education,My experience with the coding bootcamp was terrible.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was terrible based on the user's experience.
+644,technology,My experience with the self-driving car was bad.,negative,Negative feedback about self-driving car.,The self-driving car was bad based on the user's experience.
+645,customer_service,My experience with the call center was average.,neutral,Neutral feedback about call center.,The call center was average based on the user's experience.
+646,education,My experience with the coding bootcamp was acceptable.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was acceptable based on the user's experience.
+647,customer_service,My experience with the call center was terrible.,negative,Negative feedback about call center.,The call center was terrible based on the user's experience.
+648,technology,My experience with the blockchain technology was mediocre.,neutral,Neutral feedback about blockchain technology.,The blockchain technology was mediocre based on the user's experience.
+649,entertainment,My experience with the live concert was amazing.,positive,Positive feedback about live concert.,The live concert was amazing based on the user's experience.
+650,education,My experience with the coding bootcamp was terrible.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was terrible based on the user's experience.
+651,customer_service,My experience with the hotel staff was boring.,negative,Negative feedback about hotel staff.,The hotel staff was boring based on the user's experience.
+652,entertainment,My experience with the live concert was great.,positive,Positive feedback about live concert.,The live concert was great based on the user's experience.
+653,food,My experience with the Burger was amazing.,positive,Positive feedback about Burger.,The Burger was amazing based on the user's experience.
+654,food,My experience with the Pasta was superb.,positive,Positive feedback about Pasta.,The Pasta was superb based on the user's experience.
+655,customer_service,My experience with the online support was great.,positive,Positive feedback about online support.,The online support was great based on the user's experience.
+656,healthcare,My experience with the fitness tracker was fantastic.,positive,Positive feedback about fitness tracker.,The fitness tracker was fantastic based on the user's experience.
+657,healthcare,My experience with the medical app was great.,positive,Positive feedback about medical app.,The medical app was great based on the user's experience.
+658,education,My experience with the textbook was great.,positive,Positive feedback about textbook.,The textbook was great based on the user's experience.
+659,technology,My experience with the self-driving car was fine.,neutral,Neutral feedback about self-driving car.,The self-driving car was fine based on the user's experience.
+660,entertainment,My experience with the Netflix series was awful.,negative,Negative feedback about Netflix series.,The Netflix series was awful based on the user's experience.
+661,education,My experience with the MOOC was not bad.,neutral,Neutral feedback about MOOC.,The MOOC was not bad based on the user's experience.
+662,technology,My experience with the quantum computer was amazing.,positive,Positive feedback about quantum computer.,The quantum computer was amazing based on the user's experience.
+663,technology,My experience with the iPhone 15 was not worth it.,negative,Negative feedback about iPhone 15.,The iPhone 15 was not worth it based on the user's experience.
+664,healthcare,My experience with the fitness tracker was amazing.,positive,Positive feedback about fitness tracker.,The fitness tracker was amazing based on the user's experience.
+665,education,My experience with the MOOC was mediocre.,neutral,Neutral feedback about MOOC.,The MOOC was mediocre based on the user's experience.
+666,technology,My experience with the blockchain technology was boring.,negative,Negative feedback about blockchain technology.,The blockchain technology was boring based on the user's experience.
+667,healthcare,My experience with the fitness tracker was awesome.,positive,Positive feedback about fitness tracker.,The fitness tracker was awesome based on the user's experience.
+668,entertainment,My experience with the live concert was normal.,neutral,Neutral feedback about live concert.,The live concert was normal based on the user's experience.
+669,healthcare,My experience with the medical app was loved it.,positive,Positive feedback about medical app.,The medical app was loved it based on the user's experience.
+670,technology,My experience with the blockchain technology was loved it.,positive,Positive feedback about blockchain technology.,The blockchain technology was loved it based on the user's experience.
+671,education,My experience with the textbook was decent.,neutral,Neutral feedback about textbook.,The textbook was decent based on the user's experience.
+672,entertainment,My experience with the new Marvel movie was loved it.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was loved it based on the user's experience.
+673,healthcare,My experience with the medical app was amazing.,positive,Positive feedback about medical app.,The medical app was amazing based on the user's experience.
+674,education,My experience with the online course was acceptable.,neutral,Neutral feedback about online course.,The online course was acceptable based on the user's experience.
+675,healthcare,My experience with the fitness tracker was disappointing.,negative,Negative feedback about fitness tracker.,The fitness tracker was disappointing based on the user's experience.
+676,education,My experience with the textbook was fantastic.,positive,Positive feedback about textbook.,The textbook was fantastic based on the user's experience.
+677,entertainment,My experience with the new Marvel movie was bad.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was bad based on the user's experience.
+678,technology,My experience with the AI chatbot was awesome.,positive,Positive feedback about AI chatbot.,The AI chatbot was awesome based on the user's experience.
+679,education,My experience with the online course was average.,neutral,Neutral feedback about online course.,The online course was average based on the user's experience.
+680,education,My experience with the MOOC was boring.,negative,Negative feedback about MOOC.,The MOOC was boring based on the user's experience.
+681,education,My experience with the coding bootcamp was enjoyed it.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was enjoyed it based on the user's experience.
+682,food,My experience with the Pasta was amazing.,positive,Positive feedback about Pasta.,The Pasta was amazing based on the user's experience.
+683,education,My experience with the textbook was terrible.,negative,Negative feedback about textbook.,The textbook was terrible based on the user's experience.
+684,food,My experience with the Burger was fantastic.,positive,Positive feedback about Burger.,The Burger was fantastic based on the user's experience.
+685,healthcare,My experience with the telemedicine was hated it.,negative,Negative feedback about telemedicine.,The telemedicine was hated it based on the user's experience.
+686,healthcare,My experience with the hospital experience was mediocre.,neutral,Neutral feedback about hospital experience.,The hospital experience was mediocre based on the user's experience.
+687,healthcare,My experience with the telemedicine was great.,positive,Positive feedback about telemedicine.,The telemedicine was great based on the user's experience.
+688,customer_service,My experience with the online support was acceptable.,neutral,Neutral feedback about online support.,The online support was acceptable based on the user's experience.
+689,customer_service,My experience with the hotel staff was fine.,neutral,Neutral feedback about hotel staff.,The hotel staff was fine based on the user's experience.
+690,food,My experience with the Sushi was not bad.,neutral,Neutral feedback about Sushi.,The Sushi was not bad based on the user's experience.
+691,education,My experience with the university program was amazing.,positive,Positive feedback about university program.,The university program was amazing based on the user's experience.
+692,entertainment,My experience with the Netflix series was terrible.,negative,Negative feedback about Netflix series.,The Netflix series was terrible based on the user's experience.
+693,healthcare,My experience with the hospital experience was hated it.,negative,Negative feedback about hospital experience.,The hospital experience was hated it based on the user's experience.
+694,food,My experience with the Sushi was annoying.,negative,Negative feedback about Sushi.,The Sushi was annoying based on the user's experience.
+695,education,My experience with the online course was mediocre.,neutral,Neutral feedback about online course.,The online course was mediocre based on the user's experience.
+696,technology,My experience with the blockchain technology was loved it.,positive,Positive feedback about blockchain technology.,The blockchain technology was loved it based on the user's experience.
+697,education,My experience with the university program was not bad.,neutral,Neutral feedback about university program.,The university program was not bad based on the user's experience.
+698,food,My experience with the Pizza was amazing.,positive,Positive feedback about Pizza.,The Pizza was amazing based on the user's experience.
+699,technology,My experience with the blockchain technology was awful.,negative,Negative feedback about blockchain technology.,The blockchain technology was awful based on the user's experience.
+700,food,My experience with the Sushi was average.,neutral,Neutral feedback about Sushi.,The Sushi was average based on the user's experience.
+701,entertainment,My experience with the Netflix series was terrible.,negative,Negative feedback about Netflix series.,The Netflix series was terrible based on the user's experience.
+702,healthcare,My experience with the diet plan was hated it.,negative,Negative feedback about diet plan.,The diet plan was hated it based on the user's experience.
+703,education,My experience with the university program was not worth it.,negative,Negative feedback about university program.,The university program was not worth it based on the user's experience.
+704,food,My experience with the Vegan meal was awesome.,positive,Positive feedback about Vegan meal.,The Vegan meal was awesome based on the user's experience.
+705,education,My experience with the textbook was awesome.,positive,Positive feedback about textbook.,The textbook was awesome based on the user's experience.
+706,education,My experience with the coding bootcamp was hated it.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was hated it based on the user's experience.
+707,entertainment,My experience with the Netflix series was enjoyed it.,positive,Positive feedback about Netflix series.,The Netflix series was enjoyed it based on the user's experience.
+708,food,My experience with the Vegan meal was bad.,negative,Negative feedback about Vegan meal.,The Vegan meal was bad based on the user's experience.
+709,entertainment,My experience with the video game was mediocre.,neutral,Neutral feedback about video game.,The video game was mediocre based on the user's experience.
+710,entertainment,My experience with the Netflix series was okay.,neutral,Neutral feedback about Netflix series.,The Netflix series was okay based on the user's experience.
+711,customer_service,My experience with the delivery service was annoying.,negative,Negative feedback about delivery service.,The delivery service was annoying based on the user's experience.
+712,food,My experience with the Vegan meal was amazing.,positive,Positive feedback about Vegan meal.,The Vegan meal was amazing based on the user's experience.
+713,healthcare,My experience with the telemedicine was average.,neutral,Neutral feedback about telemedicine.,The telemedicine was average based on the user's experience.
+714,food,My experience with the Pizza was superb.,positive,Positive feedback about Pizza.,The Pizza was superb based on the user's experience.
+715,technology,My experience with the iPhone 15 was awesome.,positive,Positive feedback about iPhone 15.,The iPhone 15 was awesome based on the user's experience.
+716,healthcare,My experience with the fitness tracker was not bad.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was not bad based on the user's experience.
+717,healthcare,My experience with the hospital experience was boring.,negative,Negative feedback about hospital experience.,The hospital experience was boring based on the user's experience.
+718,technology,My experience with the self-driving car was not worth it.,negative,Negative feedback about self-driving car.,The self-driving car was not worth it based on the user's experience.
+719,customer_service,My experience with the hotel staff was fine.,neutral,Neutral feedback about hotel staff.,The hotel staff was fine based on the user's experience.
+720,education,My experience with the MOOC was fantastic.,positive,Positive feedback about MOOC.,The MOOC was fantastic based on the user's experience.
+721,technology,My experience with the AI chatbot was acceptable.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was acceptable based on the user's experience.
+722,entertainment,My experience with the new Marvel movie was boring.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was boring based on the user's experience.
+723,technology,My experience with the quantum computer was decent.,neutral,Neutral feedback about quantum computer.,The quantum computer was decent based on the user's experience.
+724,technology,My experience with the iPhone 15 was okay.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was okay based on the user's experience.
+725,education,My experience with the coding bootcamp was boring.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was boring based on the user's experience.
+726,food,My experience with the Vegan meal was awful.,negative,Negative feedback about Vegan meal.,The Vegan meal was awful based on the user's experience.
+727,customer_service,My experience with the delivery service was satisfying.,positive,Positive feedback about delivery service.,The delivery service was satisfying based on the user's experience.
+728,entertainment,My experience with the video game was fine.,neutral,Neutral feedback about video game.,The video game was fine based on the user's experience.
+729,technology,My experience with the self-driving car was okay.,neutral,Neutral feedback about self-driving car.,The self-driving car was okay based on the user's experience.
+730,food,My experience with the Pizza was amazing.,positive,Positive feedback about Pizza.,The Pizza was amazing based on the user's experience.
+731,customer_service,My experience with the hotel staff was fine.,neutral,Neutral feedback about hotel staff.,The hotel staff was fine based on the user's experience.
+732,education,My experience with the online course was not worth it.,negative,Negative feedback about online course.,The online course was not worth it based on the user's experience.
+733,healthcare,My experience with the fitness tracker was enjoyed it.,positive,Positive feedback about fitness tracker.,The fitness tracker was enjoyed it based on the user's experience.
+734,customer_service,My experience with the call center was mediocre.,neutral,Neutral feedback about call center.,The call center was mediocre based on the user's experience.
+735,entertainment,My experience with the Netflix series was hated it.,negative,Negative feedback about Netflix series.,The Netflix series was hated it based on the user's experience.
+736,healthcare,My experience with the diet plan was acceptable.,neutral,Neutral feedback about diet plan.,The diet plan was acceptable based on the user's experience.
+737,healthcare,My experience with the medical app was bad.,negative,Negative feedback about medical app.,The medical app was bad based on the user's experience.
+738,food,My experience with the Burger was mediocre.,neutral,Neutral feedback about Burger.,The Burger was mediocre based on the user's experience.
+739,education,My experience with the university program was enjoyed it.,positive,Positive feedback about university program.,The university program was enjoyed it based on the user's experience.
+740,technology,My experience with the quantum computer was acceptable.,neutral,Neutral feedback about quantum computer.,The quantum computer was acceptable based on the user's experience.
+741,technology,My experience with the quantum computer was decent.,neutral,Neutral feedback about quantum computer.,The quantum computer was decent based on the user's experience.
+742,technology,My experience with the quantum computer was awful.,negative,Negative feedback about quantum computer.,The quantum computer was awful based on the user's experience.
+743,entertainment,My experience with the live concert was fine.,neutral,Neutral feedback about live concert.,The live concert was fine based on the user's experience.
+744,education,My experience with the university program was not worth it.,negative,Negative feedback about university program.,The university program was not worth it based on the user's experience.
+745,education,My experience with the online course was enjoyed it.,positive,Positive feedback about online course.,The online course was enjoyed it based on the user's experience.
+746,customer_service,My experience with the delivery service was awesome.,positive,Positive feedback about delivery service.,The delivery service was awesome based on the user's experience.
+747,healthcare,My experience with the telemedicine was normal.,neutral,Neutral feedback about telemedicine.,The telemedicine was normal based on the user's experience.
+748,technology,My experience with the AI chatbot was amazing.,positive,Positive feedback about AI chatbot.,The AI chatbot was amazing based on the user's experience.
+749,customer_service,My experience with the hotel staff was fine.,neutral,Neutral feedback about hotel staff.,The hotel staff was fine based on the user's experience.
+750,entertainment,My experience with the stand-up comedy was loved it.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was loved it based on the user's experience.
+751,education,My experience with the university program was not worth it.,negative,Negative feedback about university program.,The university program was not worth it based on the user's experience.
+752,education,My experience with the coding bootcamp was superb.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was superb based on the user's experience.
+753,customer_service,My experience with the online support was mediocre.,neutral,Neutral feedback about online support.,The online support was mediocre based on the user's experience.
+754,education,My experience with the MOOC was fine.,neutral,Neutral feedback about MOOC.,The MOOC was fine based on the user's experience.
+755,technology,My experience with the blockchain technology was awful.,negative,Negative feedback about blockchain technology.,The blockchain technology was awful based on the user's experience.
+756,food,My experience with the Pasta was bad.,negative,Negative feedback about Pasta.,The Pasta was bad based on the user's experience.
+757,healthcare,My experience with the telemedicine was terrible.,negative,Negative feedback about telemedicine.,The telemedicine was terrible based on the user's experience.
+758,education,My experience with the coding bootcamp was amazing.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was amazing based on the user's experience.
+759,healthcare,My experience with the diet plan was hated it.,negative,Negative feedback about diet plan.,The diet plan was hated it based on the user's experience.
+760,entertainment,My experience with the video game was superb.,positive,Positive feedback about video game.,The video game was superb based on the user's experience.
+761,education,My experience with the online course was hated it.,negative,Negative feedback about online course.,The online course was hated it based on the user's experience.
+762,customer_service,My experience with the delivery service was average.,neutral,Neutral feedback about delivery service.,The delivery service was average based on the user's experience.
+763,food,My experience with the Vegan meal was okay.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was okay based on the user's experience.
+764,education,My experience with the online course was terrible.,negative,Negative feedback about online course.,The online course was terrible based on the user's experience.
+765,healthcare,My experience with the hospital experience was bad.,negative,Negative feedback about hospital experience.,The hospital experience was bad based on the user's experience.
+766,education,My experience with the MOOC was hated it.,negative,Negative feedback about MOOC.,The MOOC was hated it based on the user's experience.
+767,customer_service,My experience with the online support was decent.,neutral,Neutral feedback about online support.,The online support was decent based on the user's experience.
+768,entertainment,My experience with the video game was not bad.,neutral,Neutral feedback about video game.,The video game was not bad based on the user's experience.
+769,education,My experience with the university program was mediocre.,neutral,Neutral feedback about university program.,The university program was mediocre based on the user's experience.
+770,food,My experience with the Pasta was fine.,neutral,Neutral feedback about Pasta.,The Pasta was fine based on the user's experience.
+771,healthcare,My experience with the hospital experience was mediocre.,neutral,Neutral feedback about hospital experience.,The hospital experience was mediocre based on the user's experience.
+772,technology,My experience with the AI chatbot was mediocre.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was mediocre based on the user's experience.
+773,technology,My experience with the blockchain technology was hated it.,negative,Negative feedback about blockchain technology.,The blockchain technology was hated it based on the user's experience.
+774,education,My experience with the coding bootcamp was satisfying.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was satisfying based on the user's experience.
+775,entertainment,My experience with the stand-up comedy was annoying.,negative,Negative feedback about stand-up comedy.,The stand-up comedy was annoying based on the user's experience.
+776,food,My experience with the Pasta was great.,positive,Positive feedback about Pasta.,The Pasta was great based on the user's experience.
+777,entertainment,My experience with the stand-up comedy was okay.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was okay based on the user's experience.
+778,technology,My experience with the self-driving car was average.,neutral,Neutral feedback about self-driving car.,The self-driving car was average based on the user's experience.
+779,education,My experience with the coding bootcamp was satisfying.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was satisfying based on the user's experience.
+780,technology,My experience with the blockchain technology was average.,neutral,Neutral feedback about blockchain technology.,The blockchain technology was average based on the user's experience.
+781,customer_service,My experience with the delivery service was loved it.,positive,Positive feedback about delivery service.,The delivery service was loved it based on the user's experience.
+782,healthcare,My experience with the diet plan was average.,neutral,Neutral feedback about diet plan.,The diet plan was average based on the user's experience.
+783,customer_service,My experience with the call center was awful.,negative,Negative feedback about call center.,The call center was awful based on the user's experience.
+784,healthcare,My experience with the telemedicine was average.,neutral,Neutral feedback about telemedicine.,The telemedicine was average based on the user's experience.
+785,customer_service,My experience with the online support was mediocre.,neutral,Neutral feedback about online support.,The online support was mediocre based on the user's experience.
+786,education,My experience with the university program was acceptable.,neutral,Neutral feedback about university program.,The university program was acceptable based on the user's experience.
+787,food,My experience with the Sushi was boring.,negative,Negative feedback about Sushi.,The Sushi was boring based on the user's experience.
+788,healthcare,My experience with the medical app was amazing.,positive,Positive feedback about medical app.,The medical app was amazing based on the user's experience.
+789,food,My experience with the Sushi was not bad.,neutral,Neutral feedback about Sushi.,The Sushi was not bad based on the user's experience.
+790,entertainment,My experience with the stand-up comedy was acceptable.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was acceptable based on the user's experience.
+791,customer_service,My experience with the hotel staff was fine.,neutral,Neutral feedback about hotel staff.,The hotel staff was fine based on the user's experience.
+792,entertainment,My experience with the stand-up comedy was normal.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was normal based on the user's experience.
+793,technology,My experience with the iPhone 15 was decent.,neutral,Neutral feedback about iPhone 15.,The iPhone 15 was decent based on the user's experience.
+794,customer_service,My experience with the call center was disappointing.,negative,Negative feedback about call center.,The call center was disappointing based on the user's experience.
+795,food,My experience with the Sushi was decent.,neutral,Neutral feedback about Sushi.,The Sushi was decent based on the user's experience.
+796,entertainment,My experience with the live concert was average.,neutral,Neutral feedback about live concert.,The live concert was average based on the user's experience.
+797,food,My experience with the Burger was great.,positive,Positive feedback about Burger.,The Burger was great based on the user's experience.
+798,customer_service,My experience with the restaurant service was disappointing.,negative,Negative feedback about restaurant service.,The restaurant service was disappointing based on the user's experience.
+799,food,My experience with the Burger was terrible.,negative,Negative feedback about Burger.,The Burger was terrible based on the user's experience.
+800,education,My experience with the textbook was decent.,neutral,Neutral feedback about textbook.,The textbook was decent based on the user's experience.
+801,entertainment,My experience with the live concert was superb.,positive,Positive feedback about live concert.,The live concert was superb based on the user's experience.
+802,technology,My experience with the self-driving car was enjoyed it.,positive,Positive feedback about self-driving car.,The self-driving car was enjoyed it based on the user's experience.
+803,entertainment,My experience with the Netflix series was awesome.,positive,Positive feedback about Netflix series.,The Netflix series was awesome based on the user's experience.
+804,education,My experience with the coding bootcamp was disappointing.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was disappointing based on the user's experience.
+805,healthcare,My experience with the fitness tracker was terrible.,negative,Negative feedback about fitness tracker.,The fitness tracker was terrible based on the user's experience.
+806,technology,My experience with the quantum computer was fine.,neutral,Neutral feedback about quantum computer.,The quantum computer was fine based on the user's experience.
+807,food,My experience with the Pizza was terrible.,negative,Negative feedback about Pizza.,The Pizza was terrible based on the user's experience.
+808,food,My experience with the Burger was not bad.,neutral,Neutral feedback about Burger.,The Burger was not bad based on the user's experience.
+809,customer_service,My experience with the delivery service was okay.,neutral,Neutral feedback about delivery service.,The delivery service was okay based on the user's experience.
+810,healthcare,My experience with the telemedicine was satisfying.,positive,Positive feedback about telemedicine.,The telemedicine was satisfying based on the user's experience.
+811,customer_service,My experience with the delivery service was enjoyed it.,positive,Positive feedback about delivery service.,The delivery service was enjoyed it based on the user's experience.
+812,healthcare,My experience with the medical app was terrible.,negative,Negative feedback about medical app.,The medical app was terrible based on the user's experience.
+813,education,My experience with the online course was average.,neutral,Neutral feedback about online course.,The online course was average based on the user's experience.
+814,entertainment,My experience with the live concert was terrible.,negative,Negative feedback about live concert.,The live concert was terrible based on the user's experience.
+815,customer_service,My experience with the restaurant service was amazing.,positive,Positive feedback about restaurant service.,The restaurant service was amazing based on the user's experience.
+816,education,My experience with the coding bootcamp was acceptable.,neutral,Neutral feedback about coding bootcamp.,The coding bootcamp was acceptable based on the user's experience.
+817,entertainment,My experience with the video game was not bad.,neutral,Neutral feedback about video game.,The video game was not bad based on the user's experience.
+818,healthcare,My experience with the diet plan was awful.,negative,Negative feedback about diet plan.,The diet plan was awful based on the user's experience.
+819,education,My experience with the textbook was not bad.,neutral,Neutral feedback about textbook.,The textbook was not bad based on the user's experience.
+820,entertainment,My experience with the stand-up comedy was normal.,neutral,Neutral feedback about stand-up comedy.,The stand-up comedy was normal based on the user's experience.
+821,education,My experience with the MOOC was normal.,neutral,Neutral feedback about MOOC.,The MOOC was normal based on the user's experience.
+822,technology,My experience with the AI chatbot was okay.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was okay based on the user's experience.
+823,entertainment,My experience with the new Marvel movie was hated it.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was hated it based on the user's experience.
+824,healthcare,My experience with the telemedicine was awful.,negative,Negative feedback about telemedicine.,The telemedicine was awful based on the user's experience.
+825,customer_service,My experience with the restaurant service was loved it.,positive,Positive feedback about restaurant service.,The restaurant service was loved it based on the user's experience.
+826,technology,My experience with the iPhone 15 was loved it.,positive,Positive feedback about iPhone 15.,The iPhone 15 was loved it based on the user's experience.
+827,customer_service,My experience with the restaurant service was awesome.,positive,Positive feedback about restaurant service.,The restaurant service was awesome based on the user's experience.
+828,healthcare,My experience with the telemedicine was fantastic.,positive,Positive feedback about telemedicine.,The telemedicine was fantastic based on the user's experience.
+829,customer_service,My experience with the online support was acceptable.,neutral,Neutral feedback about online support.,The online support was acceptable based on the user's experience.
+830,healthcare,My experience with the hospital experience was superb.,positive,Positive feedback about hospital experience.,The hospital experience was superb based on the user's experience.
+831,customer_service,My experience with the restaurant service was enjoyed it.,positive,Positive feedback about restaurant service.,The restaurant service was enjoyed it based on the user's experience.
+832,education,My experience with the textbook was not worth it.,negative,Negative feedback about textbook.,The textbook was not worth it based on the user's experience.
+833,entertainment,My experience with the Netflix series was enjoyed it.,positive,Positive feedback about Netflix series.,The Netflix series was enjoyed it based on the user's experience.
+834,food,My experience with the Vegan meal was normal.,neutral,Neutral feedback about Vegan meal.,The Vegan meal was normal based on the user's experience.
+835,healthcare,My experience with the telemedicine was fantastic.,positive,Positive feedback about telemedicine.,The telemedicine was fantastic based on the user's experience.
+836,food,My experience with the Pizza was acceptable.,neutral,Neutral feedback about Pizza.,The Pizza was acceptable based on the user's experience.
+837,food,My experience with the Sushi was loved it.,positive,Positive feedback about Sushi.,The Sushi was loved it based on the user's experience.
+838,technology,My experience with the iPhone 15 was loved it.,positive,Positive feedback about iPhone 15.,The iPhone 15 was loved it based on the user's experience.
+839,food,My experience with the Pizza was annoying.,negative,Negative feedback about Pizza.,The Pizza was annoying based on the user's experience.
+840,technology,My experience with the quantum computer was terrible.,negative,Negative feedback about quantum computer.,The quantum computer was terrible based on the user's experience.
+841,customer_service,My experience with the call center was mediocre.,neutral,Neutral feedback about call center.,The call center was mediocre based on the user's experience.
+842,food,My experience with the Burger was loved it.,positive,Positive feedback about Burger.,The Burger was loved it based on the user's experience.
+843,entertainment,My experience with the video game was awful.,negative,Negative feedback about video game.,The video game was awful based on the user's experience.
+844,healthcare,My experience with the fitness tracker was hated it.,negative,Negative feedback about fitness tracker.,The fitness tracker was hated it based on the user's experience.
+845,education,My experience with the online course was enjoyed it.,positive,Positive feedback about online course.,The online course was enjoyed it based on the user's experience.
+846,healthcare,My experience with the telemedicine was amazing.,positive,Positive feedback about telemedicine.,The telemedicine was amazing based on the user's experience.
+847,technology,My experience with the AI chatbot was acceptable.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was acceptable based on the user's experience.
+848,customer_service,My experience with the online support was boring.,negative,Negative feedback about online support.,The online support was boring based on the user's experience.
+849,technology,My experience with the blockchain technology was enjoyed it.,positive,Positive feedback about blockchain technology.,The blockchain technology was enjoyed it based on the user's experience.
+850,food,My experience with the Sushi was satisfying.,positive,Positive feedback about Sushi.,The Sushi was satisfying based on the user's experience.
+851,customer_service,My experience with the online support was hated it.,negative,Negative feedback about online support.,The online support was hated it based on the user's experience.
+852,customer_service,My experience with the delivery service was satisfying.,positive,Positive feedback about delivery service.,The delivery service was satisfying based on the user's experience.
+853,technology,My experience with the AI chatbot was loved it.,positive,Positive feedback about AI chatbot.,The AI chatbot was loved it based on the user's experience.
+854,technology,My experience with the blockchain technology was normal.,neutral,Neutral feedback about blockchain technology.,The blockchain technology was normal based on the user's experience.
+855,education,My experience with the university program was amazing.,positive,Positive feedback about university program.,The university program was amazing based on the user's experience.
+856,healthcare,My experience with the hospital experience was not bad.,neutral,Neutral feedback about hospital experience.,The hospital experience was not bad based on the user's experience.
+857,healthcare,My experience with the diet plan was acceptable.,neutral,Neutral feedback about diet plan.,The diet plan was acceptable based on the user's experience.
+858,healthcare,My experience with the medical app was fine.,neutral,Neutral feedback about medical app.,The medical app was fine based on the user's experience.
+859,education,My experience with the textbook was fine.,neutral,Neutral feedback about textbook.,The textbook was fine based on the user's experience.
+860,customer_service,My experience with the hotel staff was decent.,neutral,Neutral feedback about hotel staff.,The hotel staff was decent based on the user's experience.
+861,healthcare,My experience with the fitness tracker was normal.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was normal based on the user's experience.
+862,education,My experience with the university program was normal.,neutral,Neutral feedback about university program.,The university program was normal based on the user's experience.
+863,education,My experience with the coding bootcamp was superb.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was superb based on the user's experience.
+864,healthcare,My experience with the telemedicine was bad.,negative,Negative feedback about telemedicine.,The telemedicine was bad based on the user's experience.
+865,healthcare,My experience with the fitness tracker was disappointing.,negative,Negative feedback about fitness tracker.,The fitness tracker was disappointing based on the user's experience.
+866,customer_service,My experience with the hotel staff was loved it.,positive,Positive feedback about hotel staff.,The hotel staff was loved it based on the user's experience.
+867,healthcare,My experience with the telemedicine was satisfying.,positive,Positive feedback about telemedicine.,The telemedicine was satisfying based on the user's experience.
+868,education,My experience with the MOOC was enjoyed it.,positive,Positive feedback about MOOC.,The MOOC was enjoyed it based on the user's experience.
+869,entertainment,My experience with the live concert was decent.,neutral,Neutral feedback about live concert.,The live concert was decent based on the user's experience.
+870,food,My experience with the Pasta was normal.,neutral,Neutral feedback about Pasta.,The Pasta was normal based on the user's experience.
+871,customer_service,My experience with the restaurant service was amazing.,positive,Positive feedback about restaurant service.,The restaurant service was amazing based on the user's experience.
+872,customer_service,My experience with the delivery service was annoying.,negative,Negative feedback about delivery service.,The delivery service was annoying based on the user's experience.
+873,entertainment,My experience with the Netflix series was hated it.,negative,Negative feedback about Netflix series.,The Netflix series was hated it based on the user's experience.
+874,food,My experience with the Burger was amazing.,positive,Positive feedback about Burger.,The Burger was amazing based on the user's experience.
+875,food,My experience with the Sushi was fantastic.,positive,Positive feedback about Sushi.,The Sushi was fantastic based on the user's experience.
+876,entertainment,My experience with the Netflix series was terrible.,negative,Negative feedback about Netflix series.,The Netflix series was terrible based on the user's experience.
+877,healthcare,My experience with the telemedicine was acceptable.,neutral,Neutral feedback about telemedicine.,The telemedicine was acceptable based on the user's experience.
+878,healthcare,My experience with the fitness tracker was hated it.,negative,Negative feedback about fitness tracker.,The fitness tracker was hated it based on the user's experience.
+879,education,My experience with the university program was loved it.,positive,Positive feedback about university program.,The university program was loved it based on the user's experience.
+880,education,My experience with the online course was superb.,positive,Positive feedback about online course.,The online course was superb based on the user's experience.
+881,entertainment,My experience with the video game was great.,positive,Positive feedback about video game.,The video game was great based on the user's experience.
+882,healthcare,My experience with the diet plan was okay.,neutral,Neutral feedback about diet plan.,The diet plan was okay based on the user's experience.
+883,healthcare,My experience with the medical app was superb.,positive,Positive feedback about medical app.,The medical app was superb based on the user's experience.
+884,technology,My experience with the self-driving car was awesome.,positive,Positive feedback about self-driving car.,The self-driving car was awesome based on the user's experience.
+885,healthcare,My experience with the hospital experience was not bad.,neutral,Neutral feedback about hospital experience.,The hospital experience was not bad based on the user's experience.
+886,education,My experience with the MOOC was not worth it.,negative,Negative feedback about MOOC.,The MOOC was not worth it based on the user's experience.
+887,customer_service,My experience with the call center was mediocre.,neutral,Neutral feedback about call center.,The call center was mediocre based on the user's experience.
+888,technology,My experience with the self-driving car was boring.,negative,Negative feedback about self-driving car.,The self-driving car was boring based on the user's experience.
+889,education,My experience with the textbook was mediocre.,neutral,Neutral feedback about textbook.,The textbook was mediocre based on the user's experience.
+890,technology,My experience with the self-driving car was awful.,negative,Negative feedback about self-driving car.,The self-driving car was awful based on the user's experience.
+891,food,My experience with the Burger was fantastic.,positive,Positive feedback about Burger.,The Burger was fantastic based on the user's experience.
+892,entertainment,My experience with the video game was fine.,neutral,Neutral feedback about video game.,The video game was fine based on the user's experience.
+893,technology,My experience with the AI chatbot was boring.,negative,Negative feedback about AI chatbot.,The AI chatbot was boring based on the user's experience.
+894,healthcare,My experience with the telemedicine was fantastic.,positive,Positive feedback about telemedicine.,The telemedicine was fantastic based on the user's experience.
+895,technology,My experience with the self-driving car was hated it.,negative,Negative feedback about self-driving car.,The self-driving car was hated it based on the user's experience.
+896,education,My experience with the textbook was superb.,positive,Positive feedback about textbook.,The textbook was superb based on the user's experience.
+897,customer_service,My experience with the hotel staff was not bad.,neutral,Neutral feedback about hotel staff.,The hotel staff was not bad based on the user's experience.
+898,customer_service,My experience with the call center was normal.,neutral,Neutral feedback about call center.,The call center was normal based on the user's experience.
+899,customer_service,My experience with the hotel staff was awesome.,positive,Positive feedback about hotel staff.,The hotel staff was awesome based on the user's experience.
+900,healthcare,My experience with the hospital experience was fine.,neutral,Neutral feedback about hospital experience.,The hospital experience was fine based on the user's experience.
+901,entertainment,My experience with the new Marvel movie was great.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was great based on the user's experience.
+902,food,My experience with the Sushi was disappointing.,negative,Negative feedback about Sushi.,The Sushi was disappointing based on the user's experience.
+903,technology,My experience with the self-driving car was enjoyed it.,positive,Positive feedback about self-driving car.,The self-driving car was enjoyed it based on the user's experience.
+904,customer_service,My experience with the call center was great.,positive,Positive feedback about call center.,The call center was great based on the user's experience.
+905,healthcare,My experience with the fitness tracker was superb.,positive,Positive feedback about fitness tracker.,The fitness tracker was superb based on the user's experience.
+906,education,My experience with the MOOC was average.,neutral,Neutral feedback about MOOC.,The MOOC was average based on the user's experience.
+907,education,My experience with the university program was disappointing.,negative,Negative feedback about university program.,The university program was disappointing based on the user's experience.
+908,education,My experience with the MOOC was annoying.,negative,Negative feedback about MOOC.,The MOOC was annoying based on the user's experience.
+909,technology,My experience with the quantum computer was mediocre.,neutral,Neutral feedback about quantum computer.,The quantum computer was mediocre based on the user's experience.
+910,food,My experience with the Sushi was boring.,negative,Negative feedback about Sushi.,The Sushi was boring based on the user's experience.
+911,healthcare,My experience with the telemedicine was fine.,neutral,Neutral feedback about telemedicine.,The telemedicine was fine based on the user's experience.
+912,entertainment,My experience with the new Marvel movie was normal.,neutral,Neutral feedback about new Marvel movie.,The new Marvel movie was normal based on the user's experience.
+913,technology,My experience with the AI chatbot was boring.,negative,Negative feedback about AI chatbot.,The AI chatbot was boring based on the user's experience.
+914,food,My experience with the Sushi was satisfying.,positive,Positive feedback about Sushi.,The Sushi was satisfying based on the user's experience.
+915,entertainment,My experience with the stand-up comedy was disappointing.,negative,Negative feedback about stand-up comedy.,The stand-up comedy was disappointing based on the user's experience.
+916,education,My experience with the university program was bad.,negative,Negative feedback about university program.,The university program was bad based on the user's experience.
+917,healthcare,My experience with the medical app was boring.,negative,Negative feedback about medical app.,The medical app was boring based on the user's experience.
+918,technology,My experience with the quantum computer was not bad.,neutral,Neutral feedback about quantum computer.,The quantum computer was not bad based on the user's experience.
+919,entertainment,My experience with the new Marvel movie was annoying.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was annoying based on the user's experience.
+920,education,My experience with the coding bootcamp was annoying.,negative,Negative feedback about coding bootcamp.,The coding bootcamp was annoying based on the user's experience.
+921,food,My experience with the Pasta was amazing.,positive,Positive feedback about Pasta.,The Pasta was amazing based on the user's experience.
+922,healthcare,My experience with the fitness tracker was awesome.,positive,Positive feedback about fitness tracker.,The fitness tracker was awesome based on the user's experience.
+923,technology,My experience with the AI chatbot was okay.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was okay based on the user's experience.
+924,technology,My experience with the quantum computer was fantastic.,positive,Positive feedback about quantum computer.,The quantum computer was fantastic based on the user's experience.
+925,entertainment,My experience with the video game was normal.,neutral,Neutral feedback about video game.,The video game was normal based on the user's experience.
+926,education,My experience with the coding bootcamp was superb.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was superb based on the user's experience.
+927,entertainment,My experience with the new Marvel movie was great.,positive,Positive feedback about new Marvel movie.,The new Marvel movie was great based on the user's experience.
+928,entertainment,My experience with the stand-up comedy was awesome.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was awesome based on the user's experience.
+929,education,My experience with the textbook was disappointing.,negative,Negative feedback about textbook.,The textbook was disappointing based on the user's experience.
+930,education,My experience with the textbook was awesome.,positive,Positive feedback about textbook.,The textbook was awesome based on the user's experience.
+931,customer_service,My experience with the call center was hated it.,negative,Negative feedback about call center.,The call center was hated it based on the user's experience.
+932,customer_service,My experience with the delivery service was awesome.,positive,Positive feedback about delivery service.,The delivery service was awesome based on the user's experience.
+933,technology,My experience with the blockchain technology was fantastic.,positive,Positive feedback about blockchain technology.,The blockchain technology was fantastic based on the user's experience.
+934,customer_service,My experience with the delivery service was hated it.,negative,Negative feedback about delivery service.,The delivery service was hated it based on the user's experience.
+935,customer_service,My experience with the online support was disappointing.,negative,Negative feedback about online support.,The online support was disappointing based on the user's experience.
+936,healthcare,My experience with the diet plan was hated it.,negative,Negative feedback about diet plan.,The diet plan was hated it based on the user's experience.
+937,food,My experience with the Burger was awful.,negative,Negative feedback about Burger.,The Burger was awful based on the user's experience.
+938,technology,My experience with the iPhone 15 was bad.,negative,Negative feedback about iPhone 15.,The iPhone 15 was bad based on the user's experience.
+939,customer_service,My experience with the call center was boring.,negative,Negative feedback about call center.,The call center was boring based on the user's experience.
+940,healthcare,My experience with the fitness tracker was awful.,negative,Negative feedback about fitness tracker.,The fitness tracker was awful based on the user's experience.
+941,customer_service,My experience with the hotel staff was great.,positive,Positive feedback about hotel staff.,The hotel staff was great based on the user's experience.
+942,entertainment,My experience with the stand-up comedy was superb.,positive,Positive feedback about stand-up comedy.,The stand-up comedy was superb based on the user's experience.
+943,technology,My experience with the blockchain technology was not worth it.,negative,Negative feedback about blockchain technology.,The blockchain technology was not worth it based on the user's experience.
+944,education,My experience with the textbook was disappointing.,negative,Negative feedback about textbook.,The textbook was disappointing based on the user's experience.
+945,healthcare,My experience with the diet plan was awful.,negative,Negative feedback about diet plan.,The diet plan was awful based on the user's experience.
+946,food,My experience with the Pasta was fantastic.,positive,Positive feedback about Pasta.,The Pasta was fantastic based on the user's experience.
+947,customer_service,My experience with the delivery service was superb.,positive,Positive feedback about delivery service.,The delivery service was superb based on the user's experience.
+948,healthcare,My experience with the fitness tracker was terrible.,negative,Negative feedback about fitness tracker.,The fitness tracker was terrible based on the user's experience.
+949,technology,My experience with the AI chatbot was normal.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was normal based on the user's experience.
+950,entertainment,My experience with the live concert was terrible.,negative,Negative feedback about live concert.,The live concert was terrible based on the user's experience.
+951,healthcare,My experience with the fitness tracker was great.,positive,Positive feedback about fitness tracker.,The fitness tracker was great based on the user's experience.
+952,food,My experience with the Pasta was bad.,negative,Negative feedback about Pasta.,The Pasta was bad based on the user's experience.
+953,technology,My experience with the blockchain technology was satisfying.,positive,Positive feedback about blockchain technology.,The blockchain technology was satisfying based on the user's experience.
+954,customer_service,My experience with the online support was bad.,negative,Negative feedback about online support.,The online support was bad based on the user's experience.
+955,technology,My experience with the AI chatbot was boring.,negative,Negative feedback about AI chatbot.,The AI chatbot was boring based on the user's experience.
+956,customer_service,My experience with the online support was not worth it.,negative,Negative feedback about online support.,The online support was not worth it based on the user's experience.
+957,education,My experience with the textbook was superb.,positive,Positive feedback about textbook.,The textbook was superb based on the user's experience.
+958,food,My experience with the Pizza was awesome.,positive,Positive feedback about Pizza.,The Pizza was awesome based on the user's experience.
+959,education,My experience with the online course was not worth it.,negative,Negative feedback about online course.,The online course was not worth it based on the user's experience.
+960,food,My experience with the Pizza was enjoyed it.,positive,Positive feedback about Pizza.,The Pizza was enjoyed it based on the user's experience.
+961,healthcare,My experience with the hospital experience was superb.,positive,Positive feedback about hospital experience.,The hospital experience was superb based on the user's experience.
+962,education,My experience with the university program was annoying.,negative,Negative feedback about university program.,The university program was annoying based on the user's experience.
+963,food,My experience with the Vegan meal was awesome.,positive,Positive feedback about Vegan meal.,The Vegan meal was awesome based on the user's experience.
+964,education,My experience with the textbook was okay.,neutral,Neutral feedback about textbook.,The textbook was okay based on the user's experience.
+965,healthcare,My experience with the medical app was hated it.,negative,Negative feedback about medical app.,The medical app was hated it based on the user's experience.
+966,education,My experience with the coding bootcamp was satisfying.,positive,Positive feedback about coding bootcamp.,The coding bootcamp was satisfying based on the user's experience.
+967,customer_service,My experience with the hotel staff was superb.,positive,Positive feedback about hotel staff.,The hotel staff was superb based on the user's experience.
+968,technology,My experience with the self-driving car was average.,neutral,Neutral feedback about self-driving car.,The self-driving car was average based on the user's experience.
+969,technology,My experience with the quantum computer was awesome.,positive,Positive feedback about quantum computer.,The quantum computer was awesome based on the user's experience.
+970,food,My experience with the Pizza was boring.,negative,Negative feedback about Pizza.,The Pizza was boring based on the user's experience.
+971,customer_service,My experience with the online support was annoying.,negative,Negative feedback about online support.,The online support was annoying based on the user's experience.
+972,food,My experience with the Pasta was awesome.,positive,Positive feedback about Pasta.,The Pasta was awesome based on the user's experience.
+973,customer_service,My experience with the restaurant service was mediocre.,neutral,Neutral feedback about restaurant service.,The restaurant service was mediocre based on the user's experience.
+974,healthcare,My experience with the hospital experience was bad.,negative,Negative feedback about hospital experience.,The hospital experience was bad based on the user's experience.
+975,entertainment,My experience with the Netflix series was bad.,negative,Negative feedback about Netflix series.,The Netflix series was bad based on the user's experience.
+976,entertainment,My experience with the Netflix series was normal.,neutral,Neutral feedback about Netflix series.,The Netflix series was normal based on the user's experience.
+977,entertainment,My experience with the new Marvel movie was disappointing.,negative,Negative feedback about new Marvel movie.,The new Marvel movie was disappointing based on the user's experience.
+978,healthcare,My experience with the fitness tracker was decent.,neutral,Neutral feedback about fitness tracker.,The fitness tracker was decent based on the user's experience.
+979,education,My experience with the textbook was annoying.,negative,Negative feedback about textbook.,The textbook was annoying based on the user's experience.
+980,technology,My experience with the AI chatbot was mediocre.,neutral,Neutral feedback about AI chatbot.,The AI chatbot was mediocre based on the user's experience.
+981,education,My experience with the textbook was loved it.,positive,Positive feedback about textbook.,The textbook was loved it based on the user's experience.
+982,healthcare,My experience with the diet plan was amazing.,positive,Positive feedback about diet plan.,The diet plan was amazing based on the user's experience.
+983,food,My experience with the Sushi was hated it.,negative,Negative feedback about Sushi.,The Sushi was hated it based on the user's experience.
+984,customer_service,My experience with the call center was annoying.,negative,Negative feedback about call center.,The call center was annoying based on the user's experience.
+985,food,My experience with the Pasta was bad.,negative,Negative feedback about Pasta.,The Pasta was bad based on the user's experience.
+986,education,My experience with the MOOC was amazing.,positive,Positive feedback about MOOC.,The MOOC was amazing based on the user's experience.
+987,healthcare,My experience with the telemedicine was bad.,negative,Negative feedback about telemedicine.,The telemedicine was bad based on the user's experience.
+988,food,My experience with the Pasta was decent.,neutral,Neutral feedback about Pasta.,The Pasta was decent based on the user's experience.
+989,education,My experience with the online course was disappointing.,negative,Negative feedback about online course.,The online course was disappointing based on the user's experience.
+990,healthcare,My experience with the fitness tracker was awesome.,positive,Positive feedback about fitness tracker.,The fitness tracker was awesome based on the user's experience.
+991,customer_service,My experience with the call center was fantastic.,positive,Positive feedback about call center.,The call center was fantastic based on the user's experience.
+992,education,My experience with the university program was superb.,positive,Positive feedback about university program.,The university program was superb based on the user's experience.
+993,healthcare,My experience with the diet plan was fine.,neutral,Neutral feedback about diet plan.,The diet plan was fine based on the user's experience.
+994,technology,My experience with the quantum computer was bad.,negative,Negative feedback about quantum computer.,The quantum computer was bad based on the user's experience.
+995,entertainment,My experience with the video game was terrible.,negative,Negative feedback about video game.,The video game was terrible based on the user's experience.
+996,healthcare,My experience with the telemedicine was disappointing.,negative,Negative feedback about telemedicine.,The telemedicine was disappointing based on the user's experience.
+997,healthcare,My experience with the diet plan was awful.,negative,Negative feedback about diet plan.,The diet plan was awful based on the user's experience.
+998,healthcare,My experience with the telemedicine was superb.,positive,Positive feedback about telemedicine.,The telemedicine was superb based on the user's experience.
+999,technology,My experience with the AI chatbot was loved it.,positive,Positive feedback about AI chatbot.,The AI chatbot was loved it based on the user's experience.
+1000,healthcare,My experience with the medical app was okay.,neutral,Neutral feedback about medical app.,The medical app was okay based on the user's experience.
